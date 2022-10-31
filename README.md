@@ -19,4 +19,3 @@ npm install axios
 ## gsap 설치
 
 npm install gsap
-# reactapi
