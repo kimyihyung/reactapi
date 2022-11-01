@@ -83,3 +83,39 @@
     url("../fonts/Rajdhani-Bold.ttf") format("truetype");
   font-display: swap;
 }
+
+@font-face {
+  font-family: "GowunBatang";
+  font-weight: 400;
+  font-style: normal;
+  src: url("../fonts/GowunBatangRegular.eot");
+  src: url("../fonts/GowunBatangRegular.eot?#iefix") format("embedded-opentype"),
+    url("../fonts/GowunBatangRegular.woff2") format("woff2"),
+    url("../fonts/GowunBatangRegular.woff") format("woff"),
+    url("../fonts/GowunBatangRegular.ttf") format("truetype");
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "GowunBatang";
+  font-weight: 700;
+  font-style: normal;
+  src: url("../fonts/GowunBatangBold.eot");
+  src: url("../fonts/GowunBatangBold.eot?#iefix") format("embedded-opentype"),
+    url("../fonts/GowunBatangBold.woff2") format("woff2"),
+    url("../fonts/GowunBatangBold.woff") format("woff"),
+    url("../fonts/GowunBatangBold.ttf") format("truetype");
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "GowunDodum";
+  font-weight: normal;
+  font-style: normal;
+  src: url("../fonts/GowunDodumRegular.eot");
+  src: url("../fonts/GowunDodumRegular.eot?#iefix") format("embedded-opentype"),
+    url("../fonts/GowunDodumRegular.woff2") format("woff2"),
+    url("../fonts/GowunDodumRegular.woff") format("woff"),
+    url("../fonts/GowunDodum.ttf") format("truetype");
+  font-display: swap;
+}

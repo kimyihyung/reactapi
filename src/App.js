@@ -5,6 +5,7 @@ import Youtube from "./components/pages/Youtube";
 import Movie from "./components/pages/Movie";
 import Unsplash from "./components/pages/Unsplash";
 import About from "./components/pages/About";
+import Reference from "./components/pages/Reference";
 
 const App = () => {
   return (
@@ -12,6 +13,7 @@ const App = () => {
       <Routes>
         <Route path="/" element={<Main />} />
         <Route path="About" element={<About />} />
+        <Route path="reference" element={<Reference />} />
         <Route path="/Youtube" element={<Youtube />} />
         <Route path="/Movie" element={<Movie />} />
         <Route path="/Unsplash" element={<Unsplash />} />

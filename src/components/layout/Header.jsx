@@ -8,6 +8,7 @@ const Header = () => {
         <ul>
           <li>
             <Link to="/about">About</Link>
+            <Link to="/Reference">Reference</Link>
           </li>
         </ul>
       </div>
