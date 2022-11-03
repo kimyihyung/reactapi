@@ -1,75 +1,135 @@
 {
   "type": "css",
-  "stock": [
+  "cssRefer": [
     {
       "num": 1,
-      "section": "NASDAQ",
-      "title": "AAPL",
-      "desc": "CEO 팀 쿡",
-      "price": "145.03 USD"
+      "title": "align-contents",
+      "desc": "align-contents 속성은 콘텐츠 아이템의 상하관계 정렬 상태를 설정합니다.",
+      "descBasic": "align-contents : stretch",
+      "descApple": "flexbox",
+      "descVer": "CSS3",
+      "descStar": "★★★★★",
+      "definition": [
+        "align-content 속성은 콘텐츠 아이템의 상하관계 정렬 상태를 설정합니다.",
+        "align-content 속성은 한 줄(flex-wrap: nowrap)에서는 의미가 없습니다."
+      ]
     },
     {
       "num": 2,
-      "section": "NASDAQ",
-      "title": "GOOGL",
-      "desc": "CEO 선다 피차이",
-      "price": "86.97 USD"
+      "title": "align-items",
+      "desc": "align-items 콘텐츠 아이템의 내부 상하관계 정렬 상태를 설정합니다.",
+      "descBasic": "align-items : center",
+      "descApple": "flexbox",
+      "descVer": "CSS3",
+      "descStar": "★★★★★",
+      "definition": [
+        "align-items 절대 위치 레이아웃에서 키워드 start는 대체 된 절대 위치 상자와 다른 모든stretch 절대 위치 상자와 같이 작동 합니다 .",
+        "align-items 절대 위치 레이아웃의 정적 위치에서 키워드로 동작합니다"
+      ]
     },
     {
       "num": 3,
-      "section": "NASDAQ",
-      "title": "TSLA",
-      "desc": "CEO 일론 머스크",
-      "price": "214.98 USD"
+      "title": "align-self",
+      "desc": "align-self 개별적인 콘텐츠 아이템의 정렬 상태를 설정합니다.",
+      "descBasic": "align-self : stretch",
+      "descApple": "flexbox",
+      "descVer": "CSS3",
+      "descStar": "★★★★★",
+      "definition": [
+        "align-self 절대 위치 레이아웃의 정적 위치에서 키워드로 동작합니다",
+        "align-self 속성은 블록 수준 상자와 표 셀에는 적용되지 않습니다."
+      ]
     },
     {
       "num": 4,
-      "section": "NASDAQ",
-      "title": "MSFT",
-      "desc": "CEO 사티아 나델라",
-      "price": "220.10 USD"
+      "title": "all",
+      "desc": "all 요소의 속성을 초기화 또는 상속을 설정합니다.",
+      "descBasic": "all : stretch",
+      "descApple": "flexbox",
+      "descVer": "CSS3",
+      "descStar": "★★★☆☆",
+      "definition": [
+        "all 속성은 실제적인 초기값은 없습니다.",
+        "all 속성은 지정된 값이 각 속성에 적용되기 때문에 이것은 약칭입니다."
+      ]
     },
     {
       "num": 5,
-      "section": "NASDAQ",
-      "title": "NVDA",
-      "desc": "CEO 젠슨 황",
-      "price": "132.19 USD"
+      "title": "animation",
+      "desc": "animation 애니메이션과 관련된 속성을 일괄적으로 설정합니다.",
+      "descBasic": "animation : stretch",
+      "descApple": "animation",
+      "descVer": "CSS3",
+      "descStar": "★★★★★",
+      "definition": [
+        "animation 애니메이션과 관련된 속성을 일괄적으로 설정합니다.",
+        "animation 속성은 전환 유형을 결정합니다. 값은 에서 사용 가능한 값 중 하나여야 합니다"
+      ]
     },
     {
       "num": 6,
-      "section": "NASDAQ",
-      "title": "AMD",
-      "desc": "CEO 리사 수",
-      "price": "58.63 USD"
+      "title": "animation-delay",
+      "desc": "animation-delay 애니메이션 지연 시간을 설정합니다.",
+      "descBasic": "animation-delay : stretch",
+      "descApple": "animation",
+      "descVer": "CSS3",
+      "descStar": "★★★★★",
+      "definition": [
+        "animation-delay 애니메이션 지연 시간을 설정합니다.",
+        "animation-delay 속성은 애니메이션이 요소에 적용된 순간부터 애니메이션이 시작되어야 하는 시간 오프셋입니다."
+      ]
     },
     {
       "num": 7,
-      "section": "NASDAQ",
-      "title": "PYPL",
-      "desc": "CEO 댄 슐먼",
-      "price": "79.45 USD"
+      "title": "animation-direction",
+      "desc": "animation-direction 애니메이션 움직임 방향을 설정합니다.",
+      "descBasic": "animation-direction : stretch",
+      "descApple": "animation",
+      "descVer": "CSS3",
+      "descStar": "★★★★★",
+      "definition": [
+        "animation-direction 애니메이션 움직임 방향을 설정합니다.",
+        "animation-direction 속성은 콘텐츠 아이템의 상하관계 정렬 상태를 설정합니다."
+      ]
     },
     {
       "num": 8,
-      "section": "NYSE",
-      "title": "NKE",
-      "desc": "CEO 존 도나호",
-      "price": "90.30 USD"
+      "title": "animation-duration",
+      "desc": "animation-duration 애니메이션 움직임 시간을 설정합니다.",
+      "descBasic": "animation-duration : stretch",
+      "descApple": "animation",
+      "descVer": "CSS3",
+      "descStar": "★★★★★",
+      "definition": [
+        "animation-duration 애니메이션 움직임 시간을 설정합니다.",
+        "animation-duration 속성은 콘텐츠 아이템의 상하관계 정렬 상태를 설정합니다."
+      ]
     },
     {
       "num": 9,
-      "section": "NYSE",
-      "title": "KO",
-      "desc": "CEO 제임스 퀸시",
-      "price": "58.81 USD"
+      "title": "animation-fill-mode",
+      "desc": "animation-fill-mode 애니메이션이 끝난 후의 상태를 설정합니다.",
+      "descBasic": "animation-fill-mode : stretch",
+      "descApple": "animation",
+      "descVer": "CSS3",
+      "descStar": "★★★☆☆",
+      "definition": [
+        "animation-fill-mode 애니메이션이 끝난 후의 상태를 설정합니다.",
+        "animation-fill-mode 애니메이션은 실행 중이 아닐 때 대상에 스타일을 적용하지 않습니다."
+      ]
     },
     {
       "num": 10,
-      "section": "NYSE",
-      "title": "PLTR",
-      "desc": "CEO 알렉스 카프",
-      "price": "8.22 USD"
+      "title": "animation-iteration-count",
+      "desc": "animation-iteration-count 애니메이션의 반복 횟수를 설정합니다.",
+      "descBasic": "animation-iteration-count : stretch",
+      "descApple": "animation",
+      "descVer": "CSS3",
+      "descStar": "★★★☆☆",
+      "definition": [
+        "animation-iteration-count 애니메이션의 반복 횟수를 설정합니다.",
+        "animation-iteration-count 속성은 animation-iteration-count하나 이상의 쉼표로 구분된 값으로 지정됩니다."
+      ]
     }
   ]
 }
