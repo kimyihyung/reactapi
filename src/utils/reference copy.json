@@ -1,0 +1,135 @@
+{
+  "type": "css",
+  "cssRefer": [
+    {
+      "num": 1,
+      "title": "align-contents",
+      "desc": "align-contents 속성은 콘텐츠 아이템의 상하관계 정렬 상태를 설정합니다.",
+      "descBasic": "align-contents : stretch",
+      "descApple": "flexbox",
+      "descVer": "CSS3",
+      "descStar": "★★★★★",
+      "definition": [
+        "align-contents 속성은 콘텐츠 아이템의 상하관계 정렬 상태를 설정합니다.",
+        "align-contents 속성은 한 줄에서는 의미가 없습니다."
+      ]
+    },
+    {
+      "num": 2,
+      "title": "align-items",
+      "desc": "align-items 콘텐츠 아이템의 내부 상하관계 정렬 상태를 설정합니다.",
+      "descBasic": "align-items : stretch",
+      "descApple": "flexbox",
+      "descVer": "CSS3",
+      "descStar": "★★★★★",
+      "definition": [
+        "align-items 콘텐츠 아이템의 내부 상하관계 정렬 상태를 설정합니다.",
+        "align-items 속성은 한 줄에서는 의미가 없습니다."
+      ]
+    },
+    {
+      "num": 3,
+      "title": "align-self",
+      "desc": "align-self 개별적인 콘텐츠 아이템의 정렬 상태를 설정합니다.",
+      "descBasic": "align-self : stretch",
+      "descApple": "flexbox",
+      "descVer": "CSS3",
+      "descStar": "★★★★★",
+      "definition": [
+        "align-self 개별적인 콘텐츠 아이템의 정렬 상태를 설정합니다.",
+        "align-self 속성은 한 줄에서는 의미가 없습니다."
+      ]
+    },
+    {
+      "num": 4,
+      "title": "all",
+      "desc": "all 요소의 속성을 초기화 또는 상속을 설정합니다.",
+      "descBasic": "all : stretch",
+      "descApple": "flexbox",
+      "descVer": "CSS3",
+      "descStar": "★★★★★",
+      "definition": [
+        "all 요소의 속성을 초기화 또는 상속을 설정합니다.",
+        "all 속성은 한 줄에서는 의미가 없습니다."
+      ]
+    },
+    {
+      "num": 5,
+      "title": "animation",
+      "desc": "animation 애니메이션과 관련된 속성을 일괄적으로 설정합니다.",
+      "descBasic": "animation : stretch",
+      "descApple": "animation",
+      "descVer": "CSS3",
+      "descStar": "★★★★★",
+      "definition": [
+        "animation 애니메이션과 관련된 속성을 일괄적으로 설정합니다.",
+        "animation 속성은 한 줄에서는 의미가 없습니다."
+      ]
+    },
+    {
+      "num": 6,
+      "title": "animation-delay",
+      "desc": "animation-delay 애니메이션 지연 시간을 설정합니다.",
+      "descBasic": "animation-delay : stretch",
+      "descApple": "animation",
+      "descVer": "CSS3",
+      "descStar": "★★★★★",
+      "definition": [
+        "animation-delay 애니메이션 지연 시간을 설정합니다.",
+        "animation-delay 속성은 한 줄에서는 의미가 없습니다."
+      ]
+    },
+    {
+      "num": 7,
+      "title": "animation-direction",
+      "desc": "animation-direction 애니메이션 움직임 방향을 설정합니다.",
+      "descBasic": "animation-direction : stretch",
+      "descApple": "animation",
+      "descVer": "CSS3",
+      "descStar": "★★★★★",
+      "definition": [
+        "animation-direction 애니메이션 움직임 방향을 설정합니다.",
+        "animation-direction 속성은 한 줄에서는 의미가 없습니다."
+      ]
+    },
+    {
+      "num": 8,
+      "title": "animation-duration",
+      "desc": "animation-duration 애니메이션 움직임 시간을 설정합니다.",
+      "descBasic": "animation-duration : stretch",
+      "descApple": "animation",
+      "descVer": "CSS3",
+      "descStar": "★★★★★",
+      "definition": [
+        "animation-duration 애니메이션 움직임 시간을 설정합니다.",
+        "animation-duration 속성은 한 줄에서는 의미가 없습니다."
+      ]
+    },
+    {
+      "num": 9,
+      "title": "animation-fill-mode",
+      "desc": "animation-fill-mode 애니메이션이 끝난 후의 상태를 설정합니다.",
+      "descBasic": "animation-fill-mode : stretch",
+      "descApple": "animation",
+      "descVer": "CSS3",
+      "descStar": "★★★★★",
+      "definition": [
+        "animation-fill-mode 애니메이션이 끝난 후의 상태를 설정합니다.",
+        "animation-fill-mode 속성은 한 줄에서는 의미가 없습니다."
+      ]
+    },
+    {
+      "num": 10,
+      "title": "animation-iteration-count",
+      "desc": "animation-iteration-count 애니메이션의 반복 횟수를 설정합니다.",
+      "descBasic": "animation-iteration-count : stretch",
+      "descApple": "animation",
+      "descVer": "CSS3",
+      "descStar": "★★★★★",
+      "definition": [
+        "animation-iteration-count 애니메이션의 반복 횟수를 설정합니다.",
+        "animation-iteration-count 속성은 한 줄에서는 의미가 없습니다."
+      ]
+    }
+  ]
+}

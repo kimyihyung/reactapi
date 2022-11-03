@@ -1,0 +1,75 @@
+{
+  "type": "css",
+  "stock": [
+    {
+      "num": 1,
+      "section": "NASDAQ",
+      "title": "AAPL",
+      "desc": "CEO 팀 쿡",
+      "price": "145.03 USD"
+    },
+    {
+      "num": 2,
+      "section": "NASDAQ",
+      "title": "GOOGL",
+      "desc": "CEO 선다 피차이",
+      "price": "86.97 USD"
+    },
+    {
+      "num": 3,
+      "section": "NASDAQ",
+      "title": "TSLA",
+      "desc": "CEO 일론 머스크",
+      "price": "214.98 USD"
+    },
+    {
+      "num": 4,
+      "section": "NASDAQ",
+      "title": "MSFT",
+      "desc": "CEO 사티아 나델라",
+      "price": "220.10 USD"
+    },
+    {
+      "num": 5,
+      "section": "NASDAQ",
+      "title": "NVDA",
+      "desc": "CEO 젠슨 황",
+      "price": "132.19 USD"
+    },
+    {
+      "num": 6,
+      "section": "NASDAQ",
+      "title": "AMD",
+      "desc": "CEO 리사 수",
+      "price": "58.63 USD"
+    },
+    {
+      "num": 7,
+      "section": "NASDAQ",
+      "title": "PYPL",
+      "desc": "CEO 댄 슐먼",
+      "price": "79.45 USD"
+    },
+    {
+      "num": 8,
+      "section": "NYSE",
+      "title": "NKE",
+      "desc": "CEO 존 도나호",
+      "price": "90.30 USD"
+    },
+    {
+      "num": 9,
+      "section": "NYSE",
+      "title": "KO",
+      "desc": "CEO 제임스 퀸시",
+      "price": "58.81 USD"
+    },
+    {
+      "num": 10,
+      "section": "NYSE",
+      "title": "PLTR",
+      "desc": "CEO 알렉스 카프",
+      "price": "8.22 USD"
+    }
+  ]
+}
