@@ -1,6 +1,5 @@
 .refer__inner {
   padding-bottom: 200px;
-
   h2 {
     font-size: 30px;
     color: var(--white);
@@ -9,19 +8,18 @@
 
 .refer__list {
   border: 1px solid var(--bg-dark-border);
-  border-top-width: 2px;
   li {
     border-bottom: 1px solid var(--bg-dark-border);
     a {
       display: flex;
-      align-items: center;
       width: 100%;
       color: var(--white);
-      font-family: var(--font-kor2);
+      align-items: center;
+      font-family: var(--font-cont);
 
       span {
         display: inline-block;
-        padding: 15px 20px;
+        padding: 15px 10px;
       }
 
       .num {
@@ -30,7 +28,7 @@
         border-right: 1px solid var(--bg-dark-border);
       }
       .name {
-        flex: 1 1 20%;
+        flex: 1 1 15%;
         border-right: 1px solid var(--bg-dark-border);
       }
       .desc {
@@ -38,8 +36,9 @@
         border-right: 1px solid var(--bg-dark-border);
       }
       .star {
-        flex: 1 1 10%;
+        flex: 1 1 25%;
         text-align: center;
+        border-right: 1px solid var(--bg-dark-border);
       }
     }
   }
