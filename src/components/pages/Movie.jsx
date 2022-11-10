@@ -5,23 +5,56 @@ import Contents from "../layout/Contents";
 import Footer from "../layout/Footer";
 import Title from "../layout/Title";
 import MovieCont from "../include/MovieCont";
+import MoviePopular from "../include/MoviePopular";
+import MovieSearch from "../include/MovieSearch";
 import Contact from "../layout/Contact";
 
 const Movie = () => {
   const [movies, setMoives] = useState([]);
-  useEffect(() => {
-    fetch(
-      "https://api.themoviedb.org/3/search/movie?api_key=REMOVED_EXPOSED_KEY&query=marble&page=1"
+  // 4번 : 콜백함수로 밑에서 처리한거 보낸 뒤 moviesPopular(저장소)로 보냄
+
+  const [popular, setPopular] = useState([]);
+
+  const search = async (query) => {
+    await fetch(
+      `https://api.themoviedb.org/3/search/movie?api_key=REMOVED_EXPOSED_KEY&language=ko-kr&query=${query}&page=1&include_adult=false`
     )
       .then((response) => response.json())
-      .then((result) => setMoives(result))
+      // .then(result => console.log(result.results))
+      .then((result) => setMoives(result.results))
+      .catch((error) => console.log("error", error));
+  };
+  //js 방식
+
+  useEffect(() => {
+    fetch(
+      "https://api.themoviedb.org/3/search/movie?api_key=REMOVED_EXPOSED_KEY&language=ko-kr&query=마블&page=1&include_adult=false"
+    )
+      .then((response) => response.json())
+      // .then(result => console.log(result.results))
+      .then((result) => setMoives(result.results))
       .catch((error) => console.log("error", error));
   }, []);
+
+  useEffect(() => {
+    fetch(
+      "https://api.themoviedb.org/3/movie/popular?api_key=REMOVED_EXPOSED_KEY&language=ko-KR"
+    )
+      .then((response) => response.json())
+      // .then(result => console.log(result.results))
+      .then((result) => setPopular(result.results))
+      .catch((error) => console.log("error", error));
+  }, []);
+  //리액트 방식
+
   return (
     <>
       <Header />
       <Contents>
         <Title title={["Movie", "referece API"]} />
+        {/* 5번 저장소에서 가져옴 */}
+        <MoviePopular popular={popular} />
+        <MovieSearch onSearch={search} />
         <MovieCont movies={movies} />
         <Contact />
       </Contents>
