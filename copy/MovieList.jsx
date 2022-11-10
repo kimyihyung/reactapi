@@ -1,6 +1,6 @@
 import React from "react";
 
-function MovieItem(props) {
+function MoviePop(props) {
   return (
     <li>
       <a href={`https://www.themoviedb.org/movie/${props.movie.id}`}>
@@ -16,15 +16,15 @@ function MovieItem(props) {
     </li>
   );
 }
-//console.log({ movies });
-function MovieCont(props) {
+//console.log({ movielist });
+function MovieList(props) {
   return (
-    <section className="cont_movie">
+    <section className="list_movie">
       <div className="container">
-        <div className="movie__inner">
+        <div className="movie__list">
           <ul>
-            {props.movies.map((movies, index) => (
-              <MovieItem key={index} movie={movies} />
+            {props.movielist.map((movielist, index) => (
+              <MoviePop key={index} movie={movielist} />
             ))}
           </ul>
         </div>
@@ -33,4 +33,4 @@ function MovieCont(props) {
   );
 }
 
-export default MovieCont;
+export default MovieList;

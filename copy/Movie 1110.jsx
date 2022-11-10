@@ -5,15 +5,14 @@ import Contents from "../layout/Contents";
 import Footer from "../layout/Footer";
 import Title from "../layout/Title";
 import MovieCont from "../include/MovieCont";
-import MoviePopular from "../include/MoviePopular";
+import MoviePopular from "../include/MovieList";
 import MovieSearch from "../include/MovieSearch";
 import Contact from "../layout/Contact";
 
 const Movie = () => {
   const [movies, setMoives] = useState([]);
   // 4번 : 콜백함수로 밑에서 처리한거 보낸 뒤 moviesPopular(저장소)로 보냄
-
-  const [popular, setPopular] = useState([]);
+  const [listMovies, setListMovies] = useState([]);
 
   const search = async (query) => {
     await fetch(
@@ -42,7 +41,7 @@ const Movie = () => {
     )
       .then((response) => response.json())
       // .then(result => console.log(result.results))
-      .then((result) => setPopular(result.results))
+      .then((result) => setListMovies(result.results))
       .catch((error) => console.log("error", error));
   }, []);
   //리액트 방식
@@ -53,7 +52,7 @@ const Movie = () => {
       <Contents>
         <Title title={["Movie", "referece API"]} />
         {/* 5번 저장소에서 가져옴 */}
-        <MoviePopular popular={popular} />
+        <MoviePopular popularMovies={listMovies} />
         <MovieSearch onSearch={search} />
         <MovieCont movies={movies} />
         <Contact />
