@@ -1,1031 +1,1031 @@
 {
   "kind": "youtube#searchListResponse",
-  "etag": "Rz8kYiLgQ777GAYeGYIge6V6rbo",
+  "etag": "YCfbnGYt4KDBLUWMkKjTGNmnIXY",
   "nextPageToken": "CB4QAA",
   "regionCode": "US",
   "pageInfo": {
-    "totalResults": 1000000,
+    "totalResults": 1979,
     "resultsPerPage": 30
   },
   "items": [
     {
       "kind": "youtube#searchResult",
-      "etag": "WPmfNK-8jWJV0UI0BL85vZ7aR_s",
+      "etag": "75JD70__dyEmC_k5qvQE0tACQaQ",
       "id": {
         "kind": "youtube#video",
-        "videoId": "Z68O7hNWGB0"
+        "videoId": "EfasNM04Erk"
       },
       "snippet": {
-        "publishedAt": "2022-03-03T10:30:11Z",
-        "channelId": "UCFXZBGS7J0IDINQc8xtMqCg",
-        "title": "Guess what colours are these sponges 🧽 😀 Intuition test! 🛎",
-        "description": "",
+        "publishedAt": "2019-05-13T05:44:01Z",
+        "channelId": "UCsvQSv7EeCMHyYb9ENKAJZw",
+        "title": "01. 메가박스 사이트 만들기 - 기본 셋팅",
+        "description": "웹 디자인부터 코딩까지 이루어지는 수업입니다. 메가박스 사이트를 포토샵을 이용하여 디자인을 하고 반응형 사이트를 만드는 강의 ...",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/Z68O7hNWGB0/default.jpg",
+            "url": "https://i.ytimg.com/vi/EfasNM04Erk/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/Z68O7hNWGB0/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/EfasNM04Erk/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/Z68O7hNWGB0/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/EfasNM04Erk/hqdefault.jpg",
             "width": 480,
             "height": 360
           }
         },
-        "channelTitle": "scottsreality",
+        "channelTitle": "Webstoryboy",
         "liveBroadcastContent": "none",
-        "publishTime": "2022-03-03T10:30:11Z"
+        "publishTime": "2019-05-13T05:44:01Z"
       }
     },
     {
       "kind": "youtube#searchResult",
-      "etag": "3KUji1-FaZlCnhpzAdOOsOnKD5U",
+      "etag": "G_8JFpVjVMaZauumsOEqL6xpRog",
       "id": {
         "kind": "youtube#video",
-        "videoId": "79NNPQqNdks"
+        "videoId": "nuQmKD21XKQ"
       },
       "snippet": {
-        "publishedAt": "2019-01-21T13:00:00Z",
-        "channelId": "UCmJ6eP-7_6gqm8moQukzd4A",
-        "title": "Learning Colors for Kids | 2.5 Hours Compilation of Color Crew | Educational Video for Toddlers",
-        "description": "Colors for Children to Learn with Magical Crayons on BabyFirst TV. Long Kids Video of Coloring for Babies. Subscribe to the ...",
+        "publishedAt": "2022-07-06T04:46:40Z",
+        "channelId": "UCsvQSv7EeCMHyYb9ENKAJZw",
+        "title": "포트폴리오 어떻게 만들어야 할까? - 프론트앤드 개발자 취업 인터뷰 #전현정 #조서은 | 웹 퍼블리셔 | 프론트앤드 개발자",
+        "description": "스터디 프론트앤드 개발자의 취업 인터뷰입니다. 웹 퍼블리셔나 프론트앤드 개발자 취업에 관심이 있는 학생들에게 많은 도움이 ...",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/79NNPQqNdks/default.jpg",
+            "url": "https://i.ytimg.com/vi/nuQmKD21XKQ/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/79NNPQqNdks/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/nuQmKD21XKQ/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/79NNPQqNdks/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/nuQmKD21XKQ/hqdefault.jpg",
             "width": 480,
             "height": 360
           }
         },
-        "channelTitle": "BabyFirst Learn Colors, ABCs, Rhymes & More",
+        "channelTitle": "Webstoryboy",
         "liveBroadcastContent": "none",
-        "publishTime": "2019-01-21T13:00:00Z"
+        "publishTime": "2022-07-06T04:46:40Z"
       }
     },
     {
       "kind": "youtube#searchResult",
-      "etag": "SB2OML-FbIEP1uZYwg6FkHBkO1c",
+      "etag": "KismI2IxhLvHZALO9eTOGj2noYY",
       "id": {
         "kind": "youtube#video",
-        "videoId": "9_WBQISVHnw"
+        "videoId": "ayF6RPYBBqM"
       },
       "snippet": {
-        "publishedAt": "2019-01-05T16:52:49Z",
-        "channelId": "UCK5Q72Uyo73uRPk8PmM2A3w",
-        "title": "Best Learning Video for Toddlers Learn Colors with Crayon Surprises!",
-        "description": "Best Learning Video for Toddlers Learn Colors with Crayon Surprises! In this preschool learning video for kids, teach kids colors, ...",
+        "publishedAt": "2020-04-18T01:00:00Z",
+        "channelId": "UCsvQSv7EeCMHyYb9ENKAJZw",
+        "title": "포트폴리오 어떻게 만들어야 할까? - 웹 퍼블리셔 인터뷰 &amp; webstoryboy",
+        "description": "포트폴리오 어떻게 만들어야 할까? 스터디에서 포트폴리오 만들기부터 취업하는 방법까지의 인터뷰입니다. ** 포트폴리오 리뷰 자신 ...",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/9_WBQISVHnw/default.jpg",
+            "url": "https://i.ytimg.com/vi/ayF6RPYBBqM/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/9_WBQISVHnw/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/ayF6RPYBBqM/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/9_WBQISVHnw/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/ayF6RPYBBqM/hqdefault.jpg",
             "width": 480,
             "height": 360
           }
         },
-        "channelTitle": "Genevieve's Playhouse - Learning Videos for Kids",
+        "channelTitle": "Webstoryboy",
         "liveBroadcastContent": "none",
-        "publishTime": "2019-01-05T16:52:49Z"
+        "publishTime": "2020-04-18T01:00:00Z"
       }
     },
     {
       "kind": "youtube#searchResult",
-      "etag": "0XpxxQzyqgGD9knL2uoszpEs3nU",
+      "etag": "5j5QUOf0dw4mKEPYFCLlKLkX0yE",
       "id": {
         "kind": "youtube#video",
-        "videoId": "jetYP9BfHKk"
+        "videoId": "aMdp43ocpWA"
       },
       "snippet": {
-        "publishedAt": "2022-11-13T12:39:25Z",
-        "channelId": "UC1WtZKSnXlFa8NnkDWw66-g",
-        "title": "Mukbang Giant Color Bottle Candy drink 컬러 보틀 캔디 젤리 먹방 with Jelly",
-        "description": "Mukbang Giant Color Bottle Candy drink 컬러 보틀 캔디 젤리 먹방 with Jelly.",
+        "publishedAt": "2019-05-13T04:54:30Z",
+        "channelId": "UCsvQSv7EeCMHyYb9ENKAJZw",
+        "title": "00. 메가박스 사이트 만들기 - 이제 시작합니다.^^ 화이팅",
+        "description": "웹 디자인부터 코딩까지 이루어지는 수업입니다. 메가박스 사이트를 포토샵을 이용하여 디자인을 하고 반응형 사이트를 만드는 강의 ...",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/jetYP9BfHKk/default_live.jpg",
+            "url": "https://i.ytimg.com/vi/aMdp43ocpWA/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/jetYP9BfHKk/mqdefault_live.jpg",
+            "url": "https://i.ytimg.com/vi/aMdp43ocpWA/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/jetYP9BfHKk/hqdefault_live.jpg",
+            "url": "https://i.ytimg.com/vi/aMdp43ocpWA/hqdefault.jpg",
             "width": 480,
             "height": 360
           }
         },
-        "channelTitle": "VikiNiki",
-        "liveBroadcastContent": "live",
-        "publishTime": "2022-11-13T12:39:25Z"
+        "channelTitle": "Webstoryboy",
+        "liveBroadcastContent": "none",
+        "publishTime": "2019-05-13T04:54:30Z"
       }
     },
     {
       "kind": "youtube#searchResult",
-      "etag": "Zoon9exES_OA1HiZnI1LQ1460ZY",
+      "etag": "fP_Ktk0UGhmxfLCx30x5aKXvQNQ",
       "id": {
         "kind": "youtube#video",
-        "videoId": "JUodmkXP41s"
+        "videoId": "Zs9DQA-jy8s"
       },
       "snippet": {
-        "publishedAt": "2020-04-25T10:47:55Z",
-        "channelId": "UC7mzNYmr2RKbD1dYz5UCwMg",
-        "title": "Color Changing Screen - Mood Led Lights [10 Hours]",
-        "description": "Do you want 10 hours of color changing screen without music? Maybe like Disco Led Lights Effect? Not too fast, but medium slow ...",
+        "publishedAt": "2019-12-10T23:00:06Z",
+        "channelId": "UCsvQSv7EeCMHyYb9ENKAJZw",
+        "title": "포트폴리오 어떻게 만들어야 할까? - 웹 퍼블리셔 인터뷰 &amp; 웹스토리보이",
+        "description": "포트폴리오 인터뷰 영상입니다. 웹 퍼블리셔를 준비하는 과정부터 사이트를 만드는 과정을 인터뷰 영상으로 담았습니다. 현재는 웹 ...",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/JUodmkXP41s/default.jpg",
+            "url": "https://i.ytimg.com/vi/Zs9DQA-jy8s/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/JUodmkXP41s/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/Zs9DQA-jy8s/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/JUodmkXP41s/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/Zs9DQA-jy8s/hqdefault.jpg",
             "width": 480,
             "height": 360
           }
         },
-        "channelTitle": "Alex Voxel",
+        "channelTitle": "Webstoryboy",
         "liveBroadcastContent": "none",
-        "publishTime": "2020-04-25T10:47:55Z"
+        "publishTime": "2019-12-10T23:00:06Z"
       }
     },
     {
       "kind": "youtube#searchResult",
-      "etag": "_QB9qfXHkFxTCQzmrgUuASGdt-E",
+      "etag": "JEmcNlqT63-6Mau7bFZzPxtyN2Q",
       "id": {
         "kind": "youtube#video",
-        "videoId": "Ce_974bE0Xs"
+        "videoId": "2anoDop4Ahk"
       },
       "snippet": {
-        "publishedAt": "2020-05-30T15:18:52Z",
-        "channelId": "UCV1SycDpnU1A2dXqob6Aowg",
-        "title": "Learn Numbers, Shapes, Colors and more with Max the Glow Train | 8 Cartoons with Max and Friends!",
-        "description": "This educational compilation includes 8 short cartoons with Max the Glow Train and Friends! 1. \"Paint Adventure\" - Max and his ...",
+        "publishedAt": "2019-05-13T07:04:35Z",
+        "channelId": "UCsvQSv7EeCMHyYb9ENKAJZw",
+        "title": "02. 메가박스 사이트 만들기 - 헤더 영역",
+        "description": "웹 디자인부터 코딩까지 이루어지는 수업입니다. 메가박스 사이트를 포토샵을 이용하여 디자인을 하고 반응형 사이트를 만드는 강의 ...",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/Ce_974bE0Xs/default.jpg",
+            "url": "https://i.ytimg.com/vi/2anoDop4Ahk/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/Ce_974bE0Xs/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/2anoDop4Ahk/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/Ce_974bE0Xs/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/2anoDop4Ahk/hqdefault.jpg",
             "width": 480,
             "height": 360
           }
         },
-        "channelTitle": "coilbook™ | Learning For Children",
+        "channelTitle": "Webstoryboy",
         "liveBroadcastContent": "none",
-        "publishTime": "2020-05-30T15:18:52Z"
+        "publishTime": "2019-05-13T07:04:35Z"
       }
     },
     {
       "kind": "youtube#searchResult",
-      "etag": "ucavS5dqWXvTRvHSSmJLyra500I",
+      "etag": "WYzae7qTz_qEw-lJM7sGyDTePzY",
       "id": {
         "kind": "youtube#video",
-        "videoId": "6L0p05Sk2fQ"
+        "videoId": "tHy498wdPaA"
       },
       "snippet": {
-        "publishedAt": "2019-02-19T13:00:03Z",
-        "channelId": "UCmJ6eP-7_6gqm8moQukzd4A",
-        "title": "Learn Colors for Kids | 3 Hours Color Crew Compilation | Educational Videos for Toddlers | BabyFirst",
-        "description": "Learning Colors for Babies with Full Episodes of The Color Crew - The Magical Crayons from Baby First TV. Subscribe to the ...",
+        "publishedAt": "2018-11-11T11:03:03Z",
+        "channelId": "UCsvQSv7EeCMHyYb9ENKAJZw",
+        "title": "01. 웹 표준 사이트 만들기(2019) - layout01",
+        "description": "웹 표준 사이트 만들기(2019) 버전입니다. 소스를 보고 동영상을 보면서 따라하는 튜토리얼입니다. 질문이나 이상한 점은 댓글로 부탁 ...",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/6L0p05Sk2fQ/default.jpg",
+            "url": "https://i.ytimg.com/vi/tHy498wdPaA/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/6L0p05Sk2fQ/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/tHy498wdPaA/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/6L0p05Sk2fQ/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/tHy498wdPaA/hqdefault.jpg",
             "width": 480,
             "height": 360
           }
         },
-        "channelTitle": "BabyFirst Learn Colors, ABCs, Rhymes & More",
+        "channelTitle": "Webstoryboy",
         "liveBroadcastContent": "none",
-        "publishTime": "2019-02-19T13:00:03Z"
+        "publishTime": "2018-11-11T11:03:03Z"
       }
     },
     {
       "kind": "youtube#searchResult",
-      "etag": "prY4qgEh9hbpS6PbCFBpHvTZ2h8",
+      "etag": "yWEkBFRwS4zsKIS37iHbid7Nkz4",
       "id": {
         "kind": "youtube#video",
-        "videoId": "EYGwxf1gCC4"
+        "videoId": "hSY_lqWW3ew"
       },
       "snippet": {
-        "publishedAt": "2009-06-17T00:41:36Z",
-        "channelId": "UC2HuQexHAdC42A03b5M_yuA",
-        "title": "Jamey Johnson - In Color (Official Video)",
-        "description": "Jamey Johnson's new album, Living For A Song: A Tribute To Hank Cochran is out now! iTunes: http://smarturl.it/LivingForASong ...",
+        "publishedAt": "2020-01-09T23:46:10Z",
+        "channelId": "UCsvQSv7EeCMHyYb9ENKAJZw",
+        "title": "02. 피그마(figma)와 제플린(Zeplin)을 이용한 모바일 사이트 만들기",
+        "description": "피그마(figna)를 이용한 모바일 웹 만들기 프로젝트입니다. 피그마를 통해 프로토타입을 만들고 제플린과 함께 모바일 웹을 만드는 ...",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/EYGwxf1gCC4/default.jpg",
+            "url": "https://i.ytimg.com/vi/hSY_lqWW3ew/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/EYGwxf1gCC4/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/hSY_lqWW3ew/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/EYGwxf1gCC4/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/hSY_lqWW3ew/hqdefault.jpg",
             "width": 480,
             "height": 360
           }
         },
-        "channelTitle": "JameyJohnsonVEVO",
+        "channelTitle": "Webstoryboy",
         "liveBroadcastContent": "none",
-        "publishTime": "2009-06-17T00:41:36Z"
+        "publishTime": "2020-01-09T23:46:10Z"
       }
     },
     {
       "kind": "youtube#searchResult",
-      "etag": "mOuUC6KZj5c-lURYwsc-1h_gY4A",
+      "etag": "5txkBDg04dVayyg7g2jkk7RQZSo",
       "id": {
         "kind": "youtube#video",
-        "videoId": "Ho15RonozNY"
+        "videoId": "meOS_IwS2JY"
       },
       "snippet": {
-        "publishedAt": "2019-02-08T08:58:45Z",
-        "channelId": "UCzjNADgaUyuH8ffMhxmphRw",
-        "title": "Rainbow Heart Glitter Coloring For Kids | Learn Shapes, Colors For Toddlers | Magic Fingers Art #02",
-        "description": "Hello! It's Sophia. Enjoy rainbow heart glitter coloring for kids, learn shapes, colors for toddlers. Please join my channel: ...",
+        "publishedAt": "2019-06-14T00:00:05Z",
+        "channelId": "UCsvQSv7EeCMHyYb9ENKAJZw",
+        "title": "02. 웹디자인 기능사 따라하면 딴다 - 레이아웃1_1 | 웹스토리보이",
+        "description": "웹디자인 기능사 실기 준비를 위한 동영상입니다. 웹 디자인 기능사의 여러가지 유형을 익혀야 하며 기본적인 제이쿼리는 꼭 외워야 ...",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/Ho15RonozNY/default.jpg",
+            "url": "https://i.ytimg.com/vi/meOS_IwS2JY/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/Ho15RonozNY/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/meOS_IwS2JY/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/Ho15RonozNY/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/meOS_IwS2JY/hqdefault.jpg",
             "width": 480,
             "height": 360
           }
         },
-        "channelTitle": "Magic Fingers Art",
+        "channelTitle": "Webstoryboy",
         "liveBroadcastContent": "none",
-        "publishTime": "2019-02-08T08:58:45Z"
+        "publishTime": "2019-06-14T00:00:05Z"
       }
     },
     {
       "kind": "youtube#searchResult",
-      "etag": "NKD8SadIib5fW3A-3CxnPUtKA_o",
+      "etag": "jnOvF_26lU84PujK-_7aiTwsvjk",
       "id": {
         "kind": "youtube#video",
-        "videoId": "FiC3ClDnsG0"
+        "videoId": "d_iK1EbiRz0"
       },
       "snippet": {
-        "publishedAt": "2021-04-30T00:00:05Z",
-        "channelId": "UCOVY28BaODA4pvyz_9jM5OA",
-        "title": "Learn Colors with Slide and More! | +Compilation | Colors for Kids | Pinkfong &amp; Hogi Nursery Rhymes",
-        "description": "Many Thanks to all of our 100 Million Subscribers on Youtube Channels!   Please take a moment, and participate in a survey for ...",
+        "publishedAt": "2019-05-15T00:54:36Z",
+        "channelId": "UCsvQSv7EeCMHyYb9ENKAJZw",
+        "title": "04. 메가박스 사이트 만들기 - 헤더 반응형 : 모바일 메뉴",
+        "description": "웹 디자인부터 코딩까지 이루어지는 수업입니다. 메가박스 사이트를 포토샵을 이용하여 디자인을 하고 반응형 사이트를 만드는 강의 ...",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/FiC3ClDnsG0/default.jpg",
+            "url": "https://i.ytimg.com/vi/d_iK1EbiRz0/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/FiC3ClDnsG0/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/d_iK1EbiRz0/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/FiC3ClDnsG0/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/d_iK1EbiRz0/hqdefault.jpg",
             "width": 480,
             "height": 360
           }
         },
-        "channelTitle": "Hogi! Pinkfong - Learn & Play",
+        "channelTitle": "Webstoryboy",
         "liveBroadcastContent": "none",
-        "publishTime": "2021-04-30T00:00:05Z"
+        "publishTime": "2019-05-15T00:54:36Z"
       }
     },
     {
       "kind": "youtube#searchResult",
-      "etag": "VCBu6uv2bYwGGcI0debm_jBr6Hs",
+      "etag": "osBWgXLGNiAsf_6snsGkI-N8Zw4",
       "id": {
         "kind": "youtube#video",
-        "videoId": "xAwB9lQnxAY"
+        "videoId": "uII8rsAEeDw"
       },
       "snippet": {
-        "publishedAt": "2017-11-14T01:58:11Z",
-        "channelId": "UC6QtYRBrtmJzYyVzwC14A1g",
-        "title": "10 Hours of Disco Lights / The Color Wheel",
-        "description": "The color wheel goes round and round and round and round changing the color of the screen smoothly. In this video it goes on for ...",
+        "publishedAt": "2018-11-27T15:03:24Z",
+        "channelId": "UCsvQSv7EeCMHyYb9ENKAJZw",
+        "title": "26. 웹 표준 사이트 만들기(2019) - 로그인",
+        "description": "웹 표준 사이트 만들기(2019) 버전입니다. 이 영상은 사이트를 만들기 위한 기초적인 영상입니다. 웹 표준과 웹 접근성을 준수한 ...",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/xAwB9lQnxAY/default.jpg",
+            "url": "https://i.ytimg.com/vi/uII8rsAEeDw/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/xAwB9lQnxAY/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/uII8rsAEeDw/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/xAwB9lQnxAY/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/uII8rsAEeDw/hqdefault.jpg",
             "width": 480,
             "height": 360
           }
         },
-        "channelTitle": "Lots of Colors",
+        "channelTitle": "Webstoryboy",
         "liveBroadcastContent": "none",
-        "publishTime": "2017-11-14T01:58:11Z"
+        "publishTime": "2018-11-27T15:03:24Z"
       }
     },
     {
       "kind": "youtube#searchResult",
-      "etag": "cZCn0BUI3rMI_6Qb_E09r0knpPg",
+      "etag": "5td6l2VUuLyHDhY9nRrMxAXBrm0",
       "id": {
         "kind": "youtube#video",
-        "videoId": "QK7JQl9jNzM"
+        "videoId": "mIW-htccaoo"
       },
       "snippet": {
-        "publishedAt": "2017-09-18T18:00:02Z",
-        "channelId": "UC2Qw1dzXDBAZPwS7zm37g8g",
-        "title": "Mahalia - Sober | A COLORS SHOW",
-        "description": "New Merch! COLORS 'HEART' Drop out now: https://shop.colorsxstudios.com Rising British singer Mahalia impresses with her ...",
+        "publishedAt": "2019-07-22T22:30:02Z",
+        "channelId": "UCsvQSv7EeCMHyYb9ENKAJZw",
+        "title": "CSS Animation - Dot 웹퍼블리셔 | 웹디자이너 | 웹스토리보이",
+        "description": "CSS Animation 튜토리얼입니다. CSS3를 이용한 애니메이션과 사이트에 필요한 모션에 대해서 배우는 튜토리얼입니다.",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/QK7JQl9jNzM/default.jpg",
+            "url": "https://i.ytimg.com/vi/mIW-htccaoo/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/QK7JQl9jNzM/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/mIW-htccaoo/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/QK7JQl9jNzM/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/mIW-htccaoo/hqdefault.jpg",
             "width": 480,
             "height": 360
           }
         },
-        "channelTitle": "COLORS",
+        "channelTitle": "Webstoryboy",
         "liveBroadcastContent": "none",
-        "publishTime": "2017-09-18T18:00:02Z"
+        "publishTime": "2019-07-22T22:30:02Z"
       }
     },
     {
       "kind": "youtube#searchResult",
-      "etag": "-K1D5TrtMdlFc5rmbWZaFFmnn4k",
+      "etag": "CPnz29c_ovt2SfuNaui3PGV-A18",
       "id": {
         "kind": "youtube#video",
-        "videoId": "WoV4f1ncE7U"
+        "videoId": "qnwa6I5WosI"
       },
       "snippet": {
-        "publishedAt": "2016-11-16T13:00:04Z",
-        "channelId": "UC5XMF3Inoi8R9nSI8ChOsdQ",
-        "title": "How To Draw Pikachu (with color)",
-        "description": "Follow along with us and learn how to draw Pikachu from Pokemon! Purchase my \"I Heart Art\" shirt ...",
+        "publishedAt": "2022-08-18T01:00:15Z",
+        "channelId": "UCsvQSv7EeCMHyYb9ENKAJZw",
+        "title": "[레이아웃01] 사이트 만들기 프로젝트1 - float, flex, grid 레이아웃 유형별 연습하기 | 포트폴리오가 실력이다 | 웹 퍼블리셔 | 프론트앤드 개발자",
+        "description": "채널에 가입하여 혜택을 누려보세요. https://www.youtube.com/channel/UCsvQSv7EeCMHyYb9ENKAJZw/join 이 강의는 유료 강의 ...",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/WoV4f1ncE7U/default.jpg",
+            "url": "https://i.ytimg.com/vi/qnwa6I5WosI/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/WoV4f1ncE7U/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/qnwa6I5WosI/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/WoV4f1ncE7U/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/qnwa6I5WosI/hqdefault.jpg",
             "width": 480,
             "height": 360
           }
         },
-        "channelTitle": "Art for Kids Hub",
+        "channelTitle": "Webstoryboy",
         "liveBroadcastContent": "none",
-        "publishTime": "2016-11-16T13:00:04Z"
+        "publishTime": "2022-08-18T01:00:15Z"
       }
     },
     {
       "kind": "youtube#searchResult",
-      "etag": "uxtIPA14MgJtq_A_62cTuUDolcU",
+      "etag": "tJ0s_WigSO1J1mKOAhj8IYtP5hA",
       "id": {
         "kind": "youtube#video",
-        "videoId": "TEW3ujNyGFw"
+        "videoId": "jePlIexZoc0"
       },
       "snippet": {
-        "publishedAt": "2022-10-24T16:00:09Z",
-        "channelId": "UC2Qw1dzXDBAZPwS7zm37g8g",
-        "title": "FKJ - Us | A COLORS SHOW",
-        "description": "French multi-instrumentalist and musician @Fkj (aka French Kiwi Juice) creates a moment of magic with a live performance of 'Us' ...",
+        "publishedAt": "2019-01-28T00:23:10Z",
+        "channelId": "UCsvQSv7EeCMHyYb9ENKAJZw",
+        "title": "16. 반응형 사이트 만들기 : 타이틀",
+        "description": "반응형 사이트 만들기(2019) 버전입니다. 소스를 보고 동영상을 보면서 따라하는 튜토리얼입니다. 질문이나 이상한 점은 댓글로 부탁 ...",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/TEW3ujNyGFw/default.jpg",
+            "url": "https://i.ytimg.com/vi/jePlIexZoc0/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/TEW3ujNyGFw/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/jePlIexZoc0/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/TEW3ujNyGFw/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/jePlIexZoc0/hqdefault.jpg",
             "width": 480,
             "height": 360
           }
         },
-        "channelTitle": "COLORS",
+        "channelTitle": "Webstoryboy",
         "liveBroadcastContent": "none",
-        "publishTime": "2022-10-24T16:00:09Z"
+        "publishTime": "2019-01-28T00:23:10Z"
       }
     },
     {
       "kind": "youtube#searchResult",
-      "etag": "W3lbuMyyyMDrJs0a9Ez1o6m2Qd4",
+      "etag": "ZxYHq-OY5avQmXMdAxAHR7EXh5A",
       "id": {
         "kind": "youtube#video",
-        "videoId": "JGulAZnnTKA"
+        "videoId": "1vb2A9cTb1I"
       },
       "snippet": {
-        "publishedAt": "2016-02-25T21:00:00Z",
-        "channelId": "UCm3FgJ2Hqm7tb70T-GfwXVA",
-        "title": "Halsey - Colors",
-        "description": "LOVE AND POWER TOUR 2022 DATES https://www.loveandpower.com 5/17 – West Palm Beach, FL – iTHINK Financial ...",
+        "publishedAt": "2021-02-28T15:00:02Z",
+        "channelId": "UCsvQSv7EeCMHyYb9ENKAJZw",
+        "title": "포트폴리오 어떻게 만들어야 할까? - 프론트앤드 개발자 취업 #박상현",
+        "description": "프론트앤드 개발자로 취업된 학생의 작품입니다. 웹 퍼블리셔나 프론트앤드 개발자 취업에 관심이 있는 학생들에게 많은 도움이 ...",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/JGulAZnnTKA/default.jpg",
+            "url": "https://i.ytimg.com/vi/1vb2A9cTb1I/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/JGulAZnnTKA/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/1vb2A9cTb1I/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/JGulAZnnTKA/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/1vb2A9cTb1I/hqdefault.jpg",
             "width": 480,
             "height": 360
           }
         },
-        "channelTitle": "HalseyVEVO",
+        "channelTitle": "Webstoryboy",
         "liveBroadcastContent": "none",
-        "publishTime": "2016-02-25T21:00:00Z"
+        "publishTime": "2021-02-28T15:00:02Z"
       }
     },
     {
       "kind": "youtube#searchResult",
-      "etag": "Z49LE1RG2UoLOOlQHq-IVmJ0rn8",
+      "etag": "hBBjBMF95IhCDVYgLVKYJRhZ3pw",
       "id": {
         "kind": "youtube#video",
-        "videoId": "0G383538qzQ"
+        "videoId": "52TT7SLexxE"
       },
       "snippet": {
-        "publishedAt": "2019-07-22T05:00:45Z",
-        "channelId": "UCqUEejAA_ATq4JhfILJkxng",
-        "title": "Black Pumas - Colors (Official Live Session)",
-        "description": "This live version of \"Colors\" is available on the Deluxe Edition of the self titled Black Pumas debut album. The Deluxe Edition ...",
+        "publishedAt": "2019-01-06T03:28:59Z",
+        "channelId": "UCsvQSv7EeCMHyYb9ENKAJZw",
+        "title": "01. 반응형 사이트 만들기(2019) - 시멘틱 태그",
+        "description": "반응형 사이트 만들기(2019) 버전입니다. 소스를 보고 동영상을 보면서 따라하는 튜토리얼입니다. 질문이나 이상한 점은 댓글로 부탁 ...",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/0G383538qzQ/default.jpg",
+            "url": "https://i.ytimg.com/vi/52TT7SLexxE/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/0G383538qzQ/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/52TT7SLexxE/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/0G383538qzQ/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/52TT7SLexxE/hqdefault.jpg",
             "width": 480,
             "height": 360
           }
         },
-        "channelTitle": "BlackPumasVEVO",
+        "channelTitle": "Webstoryboy",
         "liveBroadcastContent": "none",
-        "publishTime": "2019-07-22T05:00:45Z"
+        "publishTime": "2019-01-06T03:28:59Z"
       }
     },
     {
       "kind": "youtube#searchResult",
-      "etag": "C6TxKjYGrh4JCR3ga05-_R8uc7c",
+      "etag": "lbyDZozZc6L89Uq1mWE9vrKb9sw",
       "id": {
         "kind": "youtube#video",
-        "videoId": "vGalFuPdock"
+        "videoId": "yh4MUO05ils"
       },
       "snippet": {
-        "publishedAt": "2018-06-04T13:00:05Z",
-        "channelId": "UC2Qw1dzXDBAZPwS7zm37g8g",
-        "title": "James Vickery - Until Morning  | A COLORS SHOW",
-        "description": "South London based singer/songwriter James Vickery treats us to a slick and soulful performance of latest single “Until Morning” ...",
+        "publishedAt": "2022-07-20T23:51:10Z",
+        "channelId": "UCsvQSv7EeCMHyYb9ENKAJZw",
+        "title": "[디자인03] 사이트 만들기 프로젝트1 - 이미지 영역01 | 포트폴리오가 실력이다 | 피그마 | 웹디자인너 | 웹 퍼블리",
+        "description": "채널에 가입하여 혜택을 누려보세요. https://www.youtube.com/channel/UCsvQSv7EeCMHyYb9ENKAJZw/join 이 강의는 유료 강의 ...",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/vGalFuPdock/default.jpg",
+            "url": "https://i.ytimg.com/vi/yh4MUO05ils/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/vGalFuPdock/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/yh4MUO05ils/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/vGalFuPdock/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/yh4MUO05ils/hqdefault.jpg",
             "width": 480,
             "height": 360
           }
         },
-        "channelTitle": "COLORS",
+        "channelTitle": "Webstoryboy",
         "liveBroadcastContent": "none",
-        "publishTime": "2018-06-04T13:00:05Z"
+        "publishTime": "2022-07-20T23:51:10Z"
       }
     },
     {
       "kind": "youtube#searchResult",
-      "etag": "ui3LxtlkQOE6mEjV93ZsgJ9axVc",
+      "etag": "9hkOMQpm-WfOpRjuEFkD1mZ7tNk",
       "id": {
         "kind": "youtube#video",
-        "videoId": "qMWAY8Cdsz0"
+        "videoId": "fEtk9m2sUNo"
       },
       "snippet": {
-        "publishedAt": "2022-11-13T18:00:01Z",
-        "channelId": "UCXuqSBlHAE6Xw-yeJA0Tunw",
-        "title": "I Have to Pirate COLOURS Now??",
-        "description": "TEAMGROUP's Black Friday/Cyber Monday Sale: https://bit.ly/3FffwDC TEAMGROUP Delta RGB DDR5 6400 - White at Micro ...",
+        "publishedAt": "2019-12-23T23:00:09Z",
+        "channelId": "UCsvQSv7EeCMHyYb9ENKAJZw",
+        "title": "CSS Animation - hoverEffect04 | flex | figure | perspective",
+        "description": "CSS Animation 튜토리얼입니다. CSS3를 이용한 애니메이션과 사이트에 필요한 모션에 대해서 배우는 튜토리얼입니다.",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/qMWAY8Cdsz0/default.jpg",
+            "url": "https://i.ytimg.com/vi/fEtk9m2sUNo/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/qMWAY8Cdsz0/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/fEtk9m2sUNo/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/qMWAY8Cdsz0/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/fEtk9m2sUNo/hqdefault.jpg",
             "width": 480,
             "height": 360
           }
         },
-        "channelTitle": "Linus Tech Tips",
+        "channelTitle": "Webstoryboy",
         "liveBroadcastContent": "none",
-        "publishTime": "2022-11-13T18:00:01Z"
+        "publishTime": "2019-12-23T23:00:09Z"
       }
     },
     {
       "kind": "youtube#searchResult",
-      "etag": "t5ZNcsJfSN9srcFg1RsCbhDcmMk",
+      "etag": "uoHVeoi7WbyFk6BmH0o6jR0Z5r4",
       "id": {
         "kind": "youtube#video",
-        "videoId": "x9yop0nYR9g"
+        "videoId": "NWHIwQlptgM"
       },
       "snippet": {
-        "publishedAt": "2022-06-17T17:00:11Z",
-        "channelId": "UC2Qw1dzXDBAZPwS7zm37g8g",
-        "title": "Quavo &amp; Takeoff - HOTEL LOBBY | A COLORS SHOW",
-        "description": "Quavo Huncho and @Takeoff join forces as Unc & Phew for a stellar performance of their latest single. This show is the first in our ...",
+        "publishedAt": "2019-12-09T23:34:50Z",
+        "channelId": "UCsvQSv7EeCMHyYb9ENKAJZw",
+        "title": "포트폴리오 어떻게 만들어야 할까? - 웹 퍼블리셔 인터뷰 &amp; 웹스토리보이",
+        "description": "포트폴리오 인터뷰 영상입니다. 웹 퍼블리셔를 준비하는 과정부터 사이트를 만드는 과정을 인터뷰 영상으로 담았습니다. 현재는 웹 ...",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/x9yop0nYR9g/default.jpg",
+            "url": "https://i.ytimg.com/vi/NWHIwQlptgM/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/x9yop0nYR9g/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/NWHIwQlptgM/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/x9yop0nYR9g/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/NWHIwQlptgM/hqdefault.jpg",
             "width": 480,
             "height": 360
           }
         },
-        "channelTitle": "COLORS",
+        "channelTitle": "Webstoryboy",
         "liveBroadcastContent": "none",
-        "publishTime": "2022-06-17T17:00:11Z"
+        "publishTime": "2019-12-09T23:34:50Z"
       }
     },
     {
       "kind": "youtube#searchResult",
-      "etag": "YSesWqlZhzjshfOf4JF1kHDY4Xc",
+      "etag": "UbEZF-EfpdjhPbshQP-JFfo1hdI",
       "id": {
         "kind": "youtube#video",
-        "videoId": "1pDQjwaH3qk"
+        "videoId": "DCtUt1_6S-A"
       },
       "snippet": {
-        "publishedAt": "2022-06-10T16:00:12Z",
-        "channelId": "UC2Qw1dzXDBAZPwS7zm37g8g",
-        "title": "Oxlade - KU LO SA | A COLORS SHOW",
-        "description": "Nigerian Afrobeats artist @Oxlade shares an energetic performance of his new single 'KU LO SA'. Follow ▷ Stream: ...",
+        "publishedAt": "2019-03-07T23:00:00Z",
+        "channelId": "UCq7-gOh15ChDcFJ9xN9SYmg",
+        "title": "무료 웹호스팅 및 ftp 사용하기 ( 닷홈 &amp; 파일질라)",
+        "description": "포트폴리오 사이트 만들때 웹호스팅 고민되시죠? 무료 웹호스팅으로 유명한 닷홈을 알아보고 웹서버에 파일을 업로드 할 수 있는 파일 ...",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/1pDQjwaH3qk/default.jpg",
+            "url": "https://i.ytimg.com/vi/DCtUt1_6S-A/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/1pDQjwaH3qk/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/DCtUt1_6S-A/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/1pDQjwaH3qk/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/DCtUt1_6S-A/hqdefault.jpg",
             "width": 480,
             "height": 360
           }
         },
-        "channelTitle": "COLORS",
+        "channelTitle": "리베하얀",
         "liveBroadcastContent": "none",
-        "publishTime": "2022-06-10T16:00:12Z"
+        "publishTime": "2019-03-07T23:00:00Z"
       }
     },
     {
       "kind": "youtube#searchResult",
-      "etag": "GSWd8isznnkrrlWDGMyfJA7avOo",
+      "etag": "Q4bi8QeKSQPO6UQM_wi1ad_Ddms",
       "id": {
         "kind": "youtube#video",
-        "videoId": "qCs0pm_D_hM"
+        "videoId": "tyJ5jpCnE8c"
       },
       "snippet": {
-        "publishedAt": "2017-03-01T10:00:04Z",
-        "channelId": "UC12_HhJo54uqZ5m6xCjoOFA",
-        "title": "Colors for Children to Learn with Toy Trains - Colors Videos Collection",
-        "description": "Colors for Children to Learn with Toy Trains - Colors Videos Collection 00:00 - Colors for Children to Learn with Toy Trains 03:00 ...",
+        "publishedAt": "2019-06-24T00:10:33Z",
+        "channelId": "UCsvQSv7EeCMHyYb9ENKAJZw",
+        "title": "10. 웹디자인 기능사 따라하면 딴다 - 탭 메뉴 유형 | 웹스토리보이",
+        "description": "웹디자인 기능사 실기 준비를 위한 동영상입니다. 웹 디자인 기능사의 여러가지 유형을 익혀야 하며 기본적인 제이쿼리는 꼭 외워야 ...",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/qCs0pm_D_hM/default.jpg",
+            "url": "https://i.ytimg.com/vi/tyJ5jpCnE8c/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/qCs0pm_D_hM/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/tyJ5jpCnE8c/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/qCs0pm_D_hM/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/tyJ5jpCnE8c/hqdefault.jpg",
             "width": 480,
             "height": 360
           }
         },
-        "channelTitle": "Super Kids TV",
+        "channelTitle": "Webstoryboy",
         "liveBroadcastContent": "none",
-        "publishTime": "2017-03-01T10:00:04Z"
+        "publishTime": "2019-06-24T00:10:33Z"
       }
     },
     {
       "kind": "youtube#searchResult",
-      "etag": "dEDpDQfVaKQDcrSUfGMwlxPGBR0",
+      "etag": "eU4C9PGns7vCIMp6Ff5-9DsdHHY",
       "id": {
         "kind": "youtube#video",
-        "videoId": "ybt2jhCQ3lA"
+        "videoId": "2yqgrhkvOfs"
       },
       "snippet": {
-        "publishedAt": "2016-06-29T23:57:44Z",
-        "channelId": "UCGwA4GjY4nGMIYvaJiA0EGA",
-        "title": "Kids vocabulary - Color - color mixing - rainbow colors - English educational video",
-        "description": "http://www.youtube.com/user/EnglishSingsing9 Kids vocabulary - Color - colour - color mixing - rainbow colors - Learn English for ...",
+        "publishedAt": "2018-01-27T03:10:16Z",
+        "channelId": "UCsvQSv7EeCMHyYb9ENKAJZw",
+        "title": "15. 수업 반응형 사이트 만들기 -  fontawesome",
+        "description": "사이트 소스 http://wess.tistory.com/ 참고 사이트 http://wsss.tistory.com/ http://wiss.tistory.com/ http://coderap.tistory.com/ ...",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/ybt2jhCQ3lA/default.jpg",
+            "url": "https://i.ytimg.com/vi/2yqgrhkvOfs/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/ybt2jhCQ3lA/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/2yqgrhkvOfs/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/ybt2jhCQ3lA/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/2yqgrhkvOfs/hqdefault.jpg",
             "width": 480,
             "height": 360
           }
         },
-        "channelTitle": "English Singsing",
+        "channelTitle": "Webstoryboy",
         "liveBroadcastContent": "none",
-        "publishTime": "2016-06-29T23:57:44Z"
+        "publishTime": "2018-01-27T03:10:16Z"
       }
     },
     {
       "kind": "youtube#searchResult",
-      "etag": "yZhzMXqk0zS4CqgPFFXRk1e3k6c",
+      "etag": "kNTt1VjJlfZhzExKIu6e3UI9T2o",
       "id": {
         "kind": "youtube#video",
-        "videoId": "zxIpA5nF_LY"
+        "videoId": "kEkw5Y45oTs"
       },
       "snippet": {
-        "publishedAt": "2018-05-31T14:30:01Z",
-        "channelId": "UCLsooMJoIpl_7ux2jvdPB-Q",
-        "title": "What&#39;s Your Favorite Color? | Kids Songs | Super Simple Songs",
-        "description": "Listen to the NEW album here ▻ https://SuperSimpleSongs.lnk.to/OldMacDonaldHadAFarmID Get the Super Simple App!",
+        "publishedAt": "2021-10-31T22:12:04Z",
+        "channelId": "UCsvQSv7EeCMHyYb9ENKAJZw",
+        "title": "스크립트 이펙트 : Mouse Effect06 : 이미지 효과2 - jQuery",
+        "description": "안녕하세요! 웹스토리보이입니다. \"고퀄리티의 영상을 올려주셔서 정말 감사합니다.\" 이런 정성스러운 댓글이 이런 영상들을 만들어 ...",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/zxIpA5nF_LY/default.jpg",
+            "url": "https://i.ytimg.com/vi/kEkw5Y45oTs/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/zxIpA5nF_LY/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/kEkw5Y45oTs/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/zxIpA5nF_LY/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/kEkw5Y45oTs/hqdefault.jpg",
             "width": 480,
             "height": 360
           }
         },
-        "channelTitle": "Super Simple Songs - Kids Songs",
+        "channelTitle": "Webstoryboy",
         "liveBroadcastContent": "none",
-        "publishTime": "2018-05-31T14:30:01Z"
+        "publishTime": "2021-10-31T22:12:04Z"
       }
     },
     {
       "kind": "youtube#searchResult",
-      "etag": "ZwtwjCK0CkKmkuphm9oIfefOl2E",
+      "etag": "UrjbmZymQbPEVlhkRZ4OyWPj7ho",
       "id": {
         "kind": "youtube#video",
-        "videoId": "7i68cD70dEE"
+        "videoId": "6UOQxucuT90"
       },
       "snippet": {
-        "publishedAt": "2021-05-22T07:00:02Z",
-        "channelId": "UCbCmjCuTUZos6Inko4u57UQ",
-        "title": "Learn Colors, ABCs and 123 Songs  + More Educational Nursery Rhymes &amp; Kids Songs - CoComelon",
-        "description": "Learn the alphabet, numbers, and colors with CoComelon! In this educational nursery rhyme compilation, you will find some of the ...",
+        "publishedAt": "2019-03-10T23:44:08Z",
+        "channelId": "UCsvQSv7EeCMHyYb9ENKAJZw",
+        "title": "01. 웹디자이너와 웹퍼블리셔를 위한 기업 사이트 만들기 - 기본 작업",
+        "description": "01. 웹디자이너와 웹퍼블리셔를 위한 기업 사이트 만들기 - 기본 작업 웹 디자인부터 코딩까지 이루어지는 수업입니다. 메가박스 ...",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/7i68cD70dEE/default.jpg",
+            "url": "https://i.ytimg.com/vi/6UOQxucuT90/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/7i68cD70dEE/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/6UOQxucuT90/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/7i68cD70dEE/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/6UOQxucuT90/hqdefault.jpg",
             "width": 480,
             "height": 360
           }
         },
-        "channelTitle": "Cocomelon - Nursery Rhymes",
+        "channelTitle": "Webstoryboy",
         "liveBroadcastContent": "none",
-        "publishTime": "2021-05-22T07:00:02Z"
+        "publishTime": "2019-03-10T23:44:08Z"
       }
     },
     {
       "kind": "youtube#searchResult",
-      "etag": "vjOrGHIp-ZkuFYp6P-bDFfPD-kI",
+      "etag": "_PZVsvklguXDvz1Ajth6GfWQiWI",
       "id": {
         "kind": "youtube#video",
-        "videoId": "WkxL5SwARiA"
+        "videoId": "masnzDXG-Ok"
       },
       "snippet": {
-        "publishedAt": "2022-11-12T15:15:08Z",
-        "channelId": "UCF3D1D3RL6z8QJzgc6dtQRg",
-        "title": "BUYING Everything in ONE COLOR *gone wrong*",
-        "description": "Today best friends Nidal and Salish get a budget to shop for everything in ONE COLOR!! How do you think it went?? Comment ...",
+        "publishedAt": "2018-01-27T03:10:51Z",
+        "channelId": "UCsvQSv7EeCMHyYb9ENKAJZw",
+        "title": "16. 수업 반응형 사이트 만들기 - icon",
+        "description": "사이트 소스 http://wess.tistory.com/ 참고 사이트 http://wsss.tistory.com/ http://wiss.tistory.com/ http://coderap.tistory.com/ ...",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/WkxL5SwARiA/default.jpg",
+            "url": "https://i.ytimg.com/vi/masnzDXG-Ok/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/WkxL5SwARiA/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/masnzDXG-Ok/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/WkxL5SwARiA/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/masnzDXG-Ok/hqdefault.jpg",
             "width": 480,
             "height": 360
           }
         },
-        "channelTitle": "Nidal Wonder Official ",
+        "channelTitle": "Webstoryboy",
         "liveBroadcastContent": "none",
-        "publishTime": "2022-11-12T15:15:08Z"
+        "publishTime": "2018-01-27T03:10:51Z"
       }
     },
     {
       "kind": "youtube#searchResult",
-      "etag": "Hwp8y3XZsLCdQ0zwdmWF_4icWkE",
+      "etag": "u_6l1E70e1aLrYqw1ZGtP8dk_HM",
       "id": {
         "kind": "youtube#video",
-        "videoId": "r-mUL66HUVI"
+        "videoId": "QuUQj9E29CI"
       },
       "snippet": {
-        "publishedAt": "2020-10-20T22:43:34Z",
-        "channelId": "UCspfREpfLiTzYuryZApRQQw",
-        "title": "NEON Changing Color - Flashing FLUO Lights - Colorful Lights - Fast colour changing screen - 80&#39;",
-        "description": "Changing Color - Flashing LED Lights - Colorful Lights - Fast colour changing screen - 8 Hours Want to try something new?",
+        "publishedAt": "2019-07-29T09:38:22Z",
+        "channelId": "UCsvQSv7EeCMHyYb9ENKAJZw",
+        "title": "15. 웹디자인 기능사 따라하면 딴다 - 실전사이트 만들기1-1",
+        "description": "웹디자인 기능사 실기 준비를 위한 동영상입니다. 웹 디자인 기능사의 여러가지 유형을 익혀야 하며 기본적인 제이쿼리는 꼭 외워야 ...",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/r-mUL66HUVI/default.jpg",
+            "url": "https://i.ytimg.com/vi/QuUQj9E29CI/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/r-mUL66HUVI/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/QuUQj9E29CI/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/r-mUL66HUVI/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/QuUQj9E29CI/hqdefault.jpg",
             "width": 480,
             "height": 360
           }
         },
-        "channelTitle": "I love colors",
+        "channelTitle": "Webstoryboy",
         "liveBroadcastContent": "none",
-        "publishTime": "2020-10-20T22:43:34Z"
+        "publishTime": "2019-07-29T09:38:22Z"
       }
     },
     {
       "kind": "youtube#searchResult",
-      "etag": "BtVQTHYRMLTeRa4INaqLe3XZ3tI",
+      "etag": "f5AH5HfRZ8Afx3Ootf6NiG00Sv0",
       "id": {
         "kind": "youtube#video",
-        "videoId": "OyLLHHRTQSc"
+        "videoId": "bnVjE7hSR04"
       },
       "snippet": {
-        "publishedAt": "2021-05-29T00:00:08Z",
-        "channelId": "UCOVY28BaODA4pvyz_9jM5OA",
-        "title": "[BEST] Learn Colors ALL Season 1~3 | + Compilation | Colors for Kids | Pinkfong &amp; Hogi",
-        "description": "Subscribe and watch new videos uploaded every week. ☆ YouTube Channel: ...",
+        "publishedAt": "2021-10-27T05:12:04Z",
+        "channelId": "UCsvQSv7EeCMHyYb9ENKAJZw",
+        "title": "스크립트 이펙트 : Mouse Effect04 : 조명 효과 - Javascript",
+        "description": "안녕하세요! 웹스토리보이입니다. \"고퀄리티의 영상을 올려주셔서 정말 감사합니다.\" 이런 정성스러운 댓글이 이런 영상들을 만들어 ...",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/OyLLHHRTQSc/default.jpg",
+            "url": "https://i.ytimg.com/vi/bnVjE7hSR04/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/OyLLHHRTQSc/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/bnVjE7hSR04/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/OyLLHHRTQSc/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/bnVjE7hSR04/hqdefault.jpg",
             "width": 480,
             "height": 360
           }
         },
-        "channelTitle": "Hogi! Pinkfong - Learn & Play",
+        "channelTitle": "Webstoryboy",
         "liveBroadcastContent": "none",
-        "publishTime": "2021-05-29T00:00:08Z"
+        "publishTime": "2021-10-27T05:12:04Z"
       }
     },
     {
       "kind": "youtube#searchResult",
-      "etag": "MVH7-b84KpMqsp6MA986yWbK5VM",
+      "etag": "S6Tl_-fzpqhoNn1PNhsSGqOkA8M",
       "id": {
         "kind": "youtube#video",
-        "videoId": "BZVmcPlgF70"
+        "videoId": "oQ1OWUY2yUw"
       },
       "snippet": {
-        "publishedAt": "2018-02-14T11:00:01Z",
-        "channelId": "UC2RNg_QGZriSGQo6enPLpeQ",
-        "title": "Learning Shapes &amp; Colors with Dinosaur Cartoon Color Surprise Eggs 3D Kids Toddler Educational Video",
-        "description": "Learning Shapes & Colors with Dinosaur Cartoon Color Surprise Eggs 3D Kids Toddler Educational Video Subscribe Here By ...",
+        "publishedAt": "2021-10-25T22:46:04Z",
+        "channelId": "UCsvQSv7EeCMHyYb9ENKAJZw",
+        "title": "스크립트 이펙트 : Mouse Effect04 : 조명효과 - jQuery",
+        "description": "안녕하세요! 웹스토리보이입니다. \"고퀄리티의 영상을 올려주셔서 정말 감사합니다.\" 이런 정성스러운 댓글이 이런 영상들을 만들어 ...",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/BZVmcPlgF70/default.jpg",
+            "url": "https://i.ytimg.com/vi/oQ1OWUY2yUw/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/BZVmcPlgF70/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/oQ1OWUY2yUw/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/BZVmcPlgF70/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/oQ1OWUY2yUw/hqdefault.jpg",
             "width": 480,
             "height": 360
           }
         },
-        "channelTitle": "Super Crazy Kids",
+        "channelTitle": "Webstoryboy",
         "liveBroadcastContent": "none",
-        "publishTime": "2018-02-14T11:00:01Z"
+        "publishTime": "2021-10-25T22:46:04Z"
       }
     },
     {
       "kind": "youtube#searchResult",
-      "etag": "lPhDpvWl-c4ERwgcmoKS7aLZrhk",
+      "etag": "PtSVMXT6l0CbS5zoyqdzSqPK-8E",
       "id": {
         "kind": "youtube#video",
-        "videoId": "CRy1sYyp6Dw"
+        "videoId": "GbpLRH886b8"
       },
       "snippet": {
-        "publishedAt": "2022-09-08T13:00:07Z",
-        "channelId": "UC-biucJWhM8HwjsQ96uoIUw",
-        "title": "Rainbow Friends 🌈 How To Draw Blue | Draw &amp; Color Art Tutorial",
-        "description": "Welcome to the best Online Education Program for artists coming at you direct from our Youtube studio. Learn how to draw Blue ...",
+        "publishedAt": "2018-05-01T07:05:16Z",
+        "channelId": "UCsvQSv7EeCMHyYb9ENKAJZw",
+        "title": "13. 가비아 사이트 만들기 - select3",
+        "description": "http://webstoryboy.co.kr/category.",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/CRy1sYyp6Dw/default.jpg",
+            "url": "https://i.ytimg.com/vi/GbpLRH886b8/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/CRy1sYyp6Dw/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/GbpLRH886b8/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/CRy1sYyp6Dw/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/GbpLRH886b8/hqdefault.jpg",
             "width": 480,
             "height": 360
           }
         },
-        "channelTitle": "Cartooning Club How to Draw",
+        "channelTitle": "Webstoryboy",
         "liveBroadcastContent": "none",
-        "publishTime": "2022-09-08T13:00:07Z"
+        "publishTime": "2018-05-01T07:05:16Z"
       }
     },
     {
       "kind": "youtube#searchResult",
-      "etag": "jCSrJcWRchdXN3CLvvhvK46y5rU",
+      "etag": "7ZhuQAt8H1INJqY5egXR4QkWrkE",
       "id": {
         "kind": "youtube#video",
-        "videoId": "WKMtGlBpRms"
+        "videoId": "WKc4eDBYqdk"
       },
       "snippet": {
-        "publishedAt": "2019-06-21T01:30:02Z",
-        "channelId": "UCKHVI4H7A68G0bwGa8U5Dag",
-        "title": "Drill Construction Vehicles, Bulldozer, Tractor Cars Pretend play with Learn Colors Toys for kids",
-        "description": "",
+        "publishedAt": "2021-10-08T00:07:55Z",
+        "channelId": "UCsvQSv7EeCMHyYb9ENKAJZw",
+        "title": "스크립트 이펙트 : Parallax Effect06 : 이질감 - jQuery",
+        "description": "안녕하세요! 웹스토리보이입니다. \"고퀄리티의 영상을 올려주셔서 정말 감사합니다.\" 이런 정성스러운 댓글이 이런 영상들을 만들어 ...",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/WKMtGlBpRms/default.jpg",
+            "url": "https://i.ytimg.com/vi/WKc4eDBYqdk/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/WKMtGlBpRms/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/WKc4eDBYqdk/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/WKMtGlBpRms/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/WKc4eDBYqdk/hqdefault.jpg",
             "width": 480,
             "height": 360
           }
         },
-        "channelTitle": "Popobear TV",
+        "channelTitle": "Webstoryboy",
         "liveBroadcastContent": "none",
-        "publishTime": "2019-06-21T01:30:02Z"
+        "publishTime": "2021-10-08T00:07:55Z"
       }
     }
   ]
