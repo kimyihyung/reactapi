@@ -1,9 +1,12 @@
+// import React from "react";
 import React from "react";
 import { Swiper, SwiperSlide } from "swiper/react";
 import "swiper/css";
-import "swiper/css/effect-coverflow";
+import "swiper/css/effect-flip";
 import "swiper/css/pagination";
-import { EffectCoverflow, Pagination, Autoplay } from "swiper";
+import "swiper/css/navigation";
+
+import { EffectFlip, Pagination, Navigation } from "swiper";
 
 function YoutubeRan({ random }) {
   return (
@@ -17,31 +20,19 @@ function YoutubeRan({ random }) {
     </li>
   );
 }
+
 const YoutubeSlider = ({ random }) => {
   return (
-    <section className="movie__popular">
+    <section className="youtube__popular">
       <div className="container">
-        <div className="popular__inner">
-          <h2>Youtube Ranking</h2>
+        <div className="youtube__inner">
+          <h2>Youtube Random</h2>
           <Swiper
-            effect={"coverflow"}
-            autoplay={{
-              delay: 2500,
-              disableOnInteraction: false,
-            }}
-            initialSlide="3"
+            effect={"flip"}
             grabCursor={true}
-            centeredSlides={true}
-            slidesPerView={"auto"}
-            coverflowEffect={{
-              rotate: 50,
-              stretch: 0,
-              depth: 100,
-              modifier: 1,
-              slideShadows: true,
-            }}
             pagination={true}
-            modules={[EffectCoverflow, Pagination, Autoplay]}
+            navigation={true}
+            modules={[EffectFlip, Pagination, Navigation]}
             className="mySwiper"
           >
             {random.map((random, index) =>

@@ -7,6 +7,7 @@ import Title from "../layout/Title";
 import YoutubeSlider from "../include/YoutubeSlider";
 import YoutubeSearch from "../include/YoutubeSearch";
 import YoutubeCont from "../include/YoutubeCont";
+import YoutubeTag from "../include/YoutubeTag";
 import Contact from "../layout/Contact";
 
 const Youtube = () => {
@@ -14,7 +15,7 @@ const Youtube = () => {
 
   const search = async (query) => {
     await fetch(
-      `https://youtube.googleapis.com/youtube/v3/search?part=snippet&q=${query}&key=REMOVED_EXPOSED_KEY&maxResults=28&type=video`
+      `https://youtube.googleapis.com/youtube/v3/search?part=snippet&q=${query}&key=REMOVED_EXPOSED_KEY&type=video`
     )
       .then((response) => response.json())
       .then((result) => setYoutube(result.items))
@@ -23,12 +24,13 @@ const Youtube = () => {
 
   useEffect(() => {
     fetch(
-      "https://youtube.googleapis.com/youtube/v3/search?part=snippet&q=palantir&key=REMOVED_EXPOSED_KEY&maxResults=28&type=video"
+      "https://youtube.googleapis.com/youtube/v3/search?part=snippet&q=webstoryboy&key=REMOVED_EXPOSED_KEY&type=video"
     )
       .then((response) => response.json())
       .then((result) => setYoutube(result.items))
       .catch((error) => console.log("error", error));
   }, []);
+
   return (
     <>
       <Header />
@@ -36,6 +38,7 @@ const Youtube = () => {
         <Title title={["Youtube", "referece API"]} />
         <YoutubeSlider youtubes={youtubes} />
         <YoutubeSearch onSearch={search} />
+        <YoutubeTag onSearch={search} />
         <YoutubeCont youtubes={youtubes} />
         <Contact />
       </Contents>
