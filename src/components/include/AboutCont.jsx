@@ -6,7 +6,7 @@ const AboutCont = () => {
       <div className="container">
         <div className="top__about">
           <img
-            src="https://kimyihyung.github.io/react_api/src/utils/img/aboutImg03.png"
+            src="https://kimyihyung.github.io/reactapi/src/utils/img/aboutImg03.png"
             alt="mypp"
           />
           <h2>꿈을 설계하고 디자인 하다.</h2>
@@ -23,7 +23,7 @@ const AboutCont = () => {
 
         <div className="middle__about">
           <img
-            src="https://kimyihyung.github.io/react_api/src/utils/img/aboutImg01.jpg"
+            src="https://kimyihyung.github.io/reactapi/src/utils/img/aboutImg01.jpg"
             alt="mypp"
           />
           <div className="desc">
@@ -51,7 +51,7 @@ const AboutCont = () => {
             </p>
           </div>
           <img
-            src="https://kimyihyung.github.io/react_api/src/utils/img/aboutImg02.png"
+            src="https://kimyihyung.github.io/reactapi/src/utils/img/aboutImg02.png"
             alt="mypp"
           />
         </div>
