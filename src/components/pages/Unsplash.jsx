@@ -7,7 +7,7 @@ import Title from "../layout/Title";
 import UnsplashCont from "../include/UnsplashCont";
 import UnsplashSlider from "../include/UnsplashSlider";
 import UnsplashSearch from "../include/UnsplashSearch";
-import UnsplashBtn from "../include/UnsplashBtn";
+import UnsplashTag from "../include/UnsplashTag";
 import Contact from "../layout/Contact";
 
 const Unsplash = () => {
@@ -47,7 +47,7 @@ const Unsplash = () => {
         <Title title={["Unsplash", "referece API"]} />
         <UnsplashSlider random={random} />
         <UnsplashSearch onSearch={search} />
-        <UnsplashBtn />
+        <UnsplashTag onSearch={search} />
         <UnsplashCont images={images} />
         <Contact />
       </Contents>
