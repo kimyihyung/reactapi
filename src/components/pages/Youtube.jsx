@@ -16,7 +16,7 @@ const Youtube = () => {
 
   const search = async (query) => {
     await fetch(
-      //   `https://youtube.googleapis.com/youtube/v3/search?part=snippet&q=${query}&key=AIzaSyDTIcjNDrFGsQio928pinMUZrR4h9XlmGE&maxResults=30&type=video`
+      //   `https://youtube.googleapis.com/youtube/v3/search?part=snippet&q=${query}&key=AIzaSyCNlEvsy-8VtD9dAUQihHV-OxP2E9wsOn0&maxResults=30&type=video`
       // )
       //   .then((response) => response.json())
       //   .then((result) => setYoutubes(result.items))
