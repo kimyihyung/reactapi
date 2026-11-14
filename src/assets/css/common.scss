@@ -145,7 +145,7 @@ body {
   .cont__title {
     /* 제목 h1은 기본 2em 이라 실제로는 이 값의 2배로 그려진다.
        모바일에서는 가장 긴 단어("REFERENCE")가 화면 폭 안에 들어오는 선까지만 키운다. */
-    font-size: clamp(28px, 9vw, 56px);
+    font-size: clamp(24px, 7vw, 56px);
     padding: 84px 0 40px; /* 고정 헤더(2줄) 높이만큼 위쪽 여백 확보 */
   }
   .cont__contact {
