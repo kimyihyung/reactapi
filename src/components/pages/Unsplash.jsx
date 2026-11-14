@@ -101,7 +101,6 @@ const Unsplash = () => {
   const applyCurated = useCallback((tag, query) => {
     const filtered = pickCurated(tag, query);
     setSource("curated");
-    setRandom(shuffle(curatedPhotos).slice(0, 10));
     setImages(filtered);
     setMessage(
       filtered.length
@@ -171,7 +170,13 @@ const Unsplash = () => {
       return;
     }
     search(tag, tag);
-  };    
+  };
+
+  const onSearchSubmit = (text) => {
+    // 검색어로 찾을 때는 태그 필터를 풀고 전체에서 찾습니다.
+    setActiveTag("전체");
+    search(text, "전체");
+  };
 
   const tagList = source === "live" ? UNSPLASH_TOPICS : curatedTags;
 
@@ -185,7 +190,7 @@ const Unsplash = () => {
         <UnsplashSearch
           value={query}
           onChange={setQuery}
-          onSearch={(text) => search(text)}
+          onSearch={onSearchSubmit}
         />
         <UnsplashTag
           tags={tagList}

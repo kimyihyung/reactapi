@@ -18,12 +18,12 @@ const TAGS = ["전체", "JavaScript", "HTML", "CSS", "PHP", "REACT", "VUE"];
 
 // 태그 버튼이 실제로 걸러내는 키워드입니다.
 const TAG_KEYWORDS = {
-  JavaScript: ["javascript", "자바스크립트", "js"],
+  JavaScript: ["javascript", "자바스크립트"],
   HTML: ["html"],
   CSS: ["css"],
   PHP: ["php"],
   REACT: ["react", "리액트"],
-  VUE: ["vue", "뷰"],
+  VUE: ["vue", "vue.js", "뷰js"],
 };
 
 const normalize = (item) => {
@@ -118,6 +118,17 @@ const Youtube = () => {
     return counts;
   }, [videos]);
 
+  const handleQueryChange = (value) => {
+    setQuery(value);
+    // 검색어를 치면 태그 필터는 풀어서 전체 목록에서 찾습니다.
+    if (value.trim()) setActiveTag("전체");
+  };
+
+  const handleTagSelect = (tag) => {
+    setActiveTag(tag);
+    setQuery("");
+  };
+
   const emptyText = query
     ? `'${query}'에 해당하는 영상이 없습니다. 다른 검색어로 시도해 보세요.`
     : activeTag === "전체"
@@ -134,12 +145,12 @@ const Youtube = () => {
           {videos.length}개 중 {filtered.length}개 표시)
         </p>
         <YoutubeSlider random={random} />
-        <YoutubeSearch value={query} onChange={setQuery} />
+        <YoutubeSearch value={query} onChange={handleQueryChange} />
         <YoutubeTag
           tags={TAGS}
           counts={tagCounts}
           activeTag={activeTag}
-          onSelect={setActiveTag}
+          onSelect={handleTagSelect}
         />
         <YoutubeCont youtubes={filtered} emptyText={emptyText} />
         <Contact />
