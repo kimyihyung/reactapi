@@ -1,5 +1,5 @@
 #footer {
-  position: fixed;
+  position: relative;
   left: 0;
   bottom: 0;
   width: 100%;
@@ -11,6 +11,7 @@
 
 .footer__inner {
   display: flex;
+  flex-wrap: wrap;
   align-items: center;
   font-family: var(--font-sub2);
 
@@ -63,6 +64,31 @@
 
     &:hover::before {
       transform: scaleX(1);
+    }
+  }
+}
+
+@media (max-width: 768px) {
+  .footer__inner {
+    flex-direction: column;
+
+    div {
+      width: 100%;
+
+      &:nth-child(1),
+      &:nth-child(2) {
+        border-right: 0;
+        border-bottom: 1px solid var(--bg-dark-border);
+      }
+    }
+
+    h3 {
+      padding: 14px;
+    }
+
+    a {
+      font-size: 14px;
+      margin: 12px;
     }
   }
 }

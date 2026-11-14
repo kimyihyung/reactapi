@@ -1,36 +1,30 @@
-import React, { useRef } from "react";
+import React from "react";
 
-const YoutubeSearch = ({ onSearch }) => {
-  const inputRef = useRef();
-
-  const handleSearch = () => {
-    const value = inputRef.current.value;
-    onSearch(value);
-  };
-
-  const onKeyPress = (event) => {
-    if (event.key === "Enter") {
-      handleSearch();
-    }
-  };
-
-  const onClick = () => {
-    handleSearch();
-  };
-  //위의 내용으로 클릭과 작성에 대한 것 되는지 콘솔로 확인
+// 입력하는 즉시 목록이 걸러지고, 오른쪽 버튼은 검색어를 지웁니다.
+const YoutubeSearch = ({ value, onChange, placeholder }) => {
   return (
     <div className="movie__search">
       <div className="container">
-        <h2>검색하기</h2>
-        <input
-          ref={inputRef}
-          type="search"
-          placeholder="검색하세요!"
-          onKeyPress={onKeyPress}
-        />
-        <button type="submit" onClick={onClick}>
-          검색
-        </button>
+        <form onSubmit={(event) => event.preventDefault()}>
+          <h2>검색하기</h2>
+          <input
+            type="search"
+            value={value || ""}
+            onChange={(event) => onChange(event.target.value)}
+            placeholder={placeholder || "영상 제목·채널로 검색하세요!"}
+            aria-label="영상 검색"
+          />
+          {value ? (
+            <button
+              type="button"
+              onClick={() => onChange("")}
+              aria-label="검색어 지우기"
+              title="검색어 지우기"
+            >
+              ✕
+            </button>
+          ) : null}
+        </form>
       </div>
     </div>
   );

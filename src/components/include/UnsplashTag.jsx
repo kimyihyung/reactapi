@@ -1,27 +1,26 @@
 import React from "react";
 
-const unsplashList = [
-  { name: "3D Renders" },
-  { name: "Experimental" },
-  { name: "Architecture" },
-  { name: "Fashion" },
-  { name: "Nature" },
-  { name: "People" },
-  { name: "Athletics" },
-];
+const UnsplashTag = ({ tags, activeTag, onSelect }) => {
+  const list = Array.isArray(tags) ? tags : [];
+  if (list.length === 0) return null;
 
-const UnsplashTag = ({ onSearch }) => {
-  function btnClick(e) {
-    onSearch(e.target.innerHTML);
-  }
   return (
     <section className="btn__list">
       <div className="container">
-        {unsplashList.map((list, index) => (
-          <button onClick={btnClick} key={index}>
-            {list.name}
-          </button>
-        ))}
+        {list.map((name) => {
+          const active = name === activeTag;
+          return (
+            <button
+              type="button"
+              key={name}
+              className={active ? "is-active" : ""}
+              aria-pressed={active}
+              onClick={() => onSelect(name)}
+            >
+              {name}
+            </button>
+          );
+        })}
       </div>
     </section>
   );

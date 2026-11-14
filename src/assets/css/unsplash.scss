@@ -9,8 +9,12 @@ body {
 
     li {
       margin-bottom: 20px;
+      break-inside: avoid;
 
       img {
+        display: block;
+        width: 100%;
+        height: auto;
         border-radius: 5px;
       }
     }
@@ -27,6 +31,7 @@ body {
   .swiper img {
     width: 250px !important;
     height: 300px !important;
+    object-fit: cover;
   }
 
   .swiper-slide {

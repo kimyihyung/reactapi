@@ -72,9 +72,58 @@ body {
     color: #fff;
     border: 1px solid #fff;
   }
-  button:hover {
+  button:hover,
+  button.is-active {
     background: #fff;
     color: #000;
     transition: all 0.3s;
   }
+
+  .tag-count {
+    display: inline-block;
+    margin-left: 5px;
+    font-size: 11px;
+    opacity: 0.6;
+  }
+}
+
+// 데이터 안내 문구 (API 키가 없거나 연결이 안 될 때)
+.data-note {
+  max-width: 780px;
+  margin: -40px auto 50px;
+  padding: 0 20px;
+  color: var(--white);
+  opacity: 0.6;
+  font-family: var(--font-kor2);
+  font-size: 14px;
+  line-height: 1.8;
+  text-align: center;
+  word-break: keep-all;
+}
+
+// 검색 결과가 없거나 불러오는 중일 때
+.empty-state {
+  width: 100%;
+  padding: 80px 20px;
+  color: var(--white);
+  opacity: 0.7;
+  font-family: var(--font-kor2);
+  text-align: center;
+  word-break: keep-all;
+}
+
+// 포스터/썸네일이 없을 때의 자리
+.poster-empty {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 100%;
+  min-height: 220px;
+  background: #111;
+  border: 1px solid var(--bg-dark-border);
+  border-radius: 5px;
+  color: var(--white);
+  opacity: 0.4;
+  font-size: 12px;
+  letter-spacing: 1px;
 }

@@ -1,36 +1,27 @@
-import React, { useRef } from "react";
+import React, { useState } from "react";
 
-const MovieSearch = ({ onSearch }) => {
-  const inputRef = useRef();
+const MovieSearch = ({ onSearch, placeholder }) => {
+  const [value, setValue] = useState("");
 
-  const handleSearch = () => {
-    const value = inputRef.current.value;
+  const handleSubmit = (event) => {
+    event.preventDefault();
     onSearch(value);
   };
 
-  const onKeyPress = (event) => {
-    if (event.key === "Enter") {
-      handleSearch();
-    }
-  };
-
-  const onClick = () => {
-    handleSearch();
-  };
-  //위의 내용으로 클릭과 작성에 대한 것 되는지 콘솔로 확인
   return (
     <div className="movie__search">
       <div className="container">
-        <h2>검색하기</h2>
-        <input
-          ref={inputRef}
-          type="search"
-          placeholder="검색하세요!"
-          onKeyPress={onKeyPress}
-        />
-        <button type="submit" onClick={onClick}>
-          검색
-        </button>
+        <form onSubmit={handleSubmit}>
+          <h2>검색하기</h2>
+          <input
+            type="search"
+            value={value}
+            onChange={(event) => setValue(event.target.value)}
+            placeholder={placeholder || "영화 제목을 검색하세요!"}
+            aria-label="영화 검색"
+          />
+          <button type="submit">검색</button>
+        </form>
       </div>
     </div>
   );

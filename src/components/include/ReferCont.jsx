@@ -3,7 +3,13 @@ import React from "react";
 const ReferText = ({ id, name, desc, descStar }) => {
   return (
     <li>
-      <a href="/">
+      <a
+        href={`https://developer.mozilla.org/en-US/docs/Web/CSS/${encodeURIComponent(
+          name
+        )}`}
+        target="_blank"
+        rel="noreferrer"
+      >
         <span className="id">{id}</span>
         <span className="name">{name}</span>
         <span className="desc">{desc}</span>
@@ -13,35 +19,20 @@ const ReferText = ({ id, name, desc, descStar }) => {
   );
 };
 
-// const ReferCont = () => {
-//   return (
-//     <section className="cont__refer">
-//       <div className="container">
-//         <div className="refer__inner">
-//           <h2>CSS</h2>
-//           <ul className="refer__list">
-//             {referInfo.map((info) => (
-//               <ReferText
-//                 num={info.num}
-//                 name={info.name}
-//                 desc={info.desc}
-//                 star={info.star}
-//               />
-//             ))}
-
 const ReferCont = ({ references }) => {
-  // console.log({references})
+  const list = Array.isArray(references) ? references : [];
+
   return (
     <section className="cont__refer">
       <div className="container">
         <div className="refer__inner">
           <h2>CSS</h2>
           <ul className="refer__list">
-            {references.map((refer, idx) => (
+            {list.map((refer, idx) => (
               <ReferText
-                key={idx}
+                key={`${refer.num}-${idx}`}
                 id={refer.num}
-                name={refer.name}
+                name={refer.name?.replace(/^\s+|\s+$/g, "")}
                 desc={refer.desc}
                 descStar={refer.descStar}
               />

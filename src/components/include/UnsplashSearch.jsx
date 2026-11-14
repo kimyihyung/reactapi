@@ -1,36 +1,27 @@
-import React, { useRef } from "react";
+import React from "react";
 
-const UnsplashSearch = ({ onSearch }) => {
-  const inputRef = useRef();
-
-  const handleSearch = () => {
-    const value = inputRef.current.value;
+const UnsplashSearch = ({ value, onChange, onSearch, placeholder }) => {
+  const handleSubmit = (event) => {
+    event.preventDefault();
     onSearch(value);
   };
 
-  const onKeyPress = (event) => {
-    if (event.key === "Enter") {
-      handleSearch();
-    }
-  };
-
-  const onClick = () => {
-    handleSearch();
-  };
-  //위의 내용으로 클릭과 작성에 대한 것 되는지 콘솔로 확인
   return (
     <div className="movie__search">
       <div className="container">
-        <h2>검색하기</h2>
-        <input
-          ref={inputRef}
-          type="search"
-          placeholder="검색하세요!"
-          onKeyPress={onKeyPress}
-        />
-        <button type="submit" onClick={onClick}>
-          검색
-        </button>
+        <form onSubmit={handleSubmit}>
+          <h2>검색하기</h2>
+          <input
+            type="search"
+            value={value || ""}
+            onChange={(event) => onChange(event.target.value)}
+            placeholder={
+              placeholder || "이미지를 검색하세요! (예: nature, 도시, 바다)"
+            }
+            aria-label="이미지 검색"
+          />
+          <button type="submit">검색</button>
+        </form>
       </div>
     </div>
   );

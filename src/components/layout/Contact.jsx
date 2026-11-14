@@ -5,7 +5,7 @@ const Contact = () => {
     <section className="cont__contact">
       <p>Let's create something new</p>
       <h3>
-        LET'S Get IN <em>TOUBH</em>
+        LET'S Get IN <em>TOUCH</em>
       </h3>
       <a href="mailto:kimlh3743@gmail.com">Contact me</a>
     </section>

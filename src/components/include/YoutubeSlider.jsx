@@ -1,4 +1,3 @@
-// import React from "react";
 import React from "react";
 import { Swiper, SwiperSlide } from "swiper/react";
 import "swiper/css";
@@ -11,17 +10,28 @@ import { EffectFlip, Pagination, Navigation } from "swiper";
 function YoutubeRan({ random }) {
   return (
     <li>
-      <a href={`https://www.youtube.com/watch?v=${random.id.videoId}`}>
-        <img
-          src={random.snippet.thumbnails.medium.url}
-          alt={random.snippet.description}
-        />
+      <a
+        href={`https://www.youtube.com/watch?v=${random.id}`}
+        target="_blank"
+        rel="noreferrer"
+      >
+        {random.thumb ? (
+          <img src={random.thumb} alt={random.title} />
+        ) : (
+          <span className="poster-empty">NO IMAGE</span>
+        )}
       </a>
     </li>
   );
 }
 
 const YoutubeSlider = ({ random }) => {
+  const list = Array.isArray(random)
+    ? random.filter((video) => video && video.id).slice(0, 10)
+    : [];
+
+  if (list.length === 0) return null;
+
   return (
     <section className="youtube__popular">
       <div className="container">
@@ -35,13 +45,11 @@ const YoutubeSlider = ({ random }) => {
             modules={[EffectFlip, Pagination, Navigation]}
             className="mySwiper"
           >
-            {random.map((random, index) =>
-              index < 10 ? (
-                <SwiperSlide key={index}>
-                  <YoutubeRan key={index} random={random} index={index} />
-                </SwiperSlide>
-              ) : null
-            )}
+            {list.map((video, index) => (
+              <SwiperSlide key={`${video.id}-${index}`}>
+                <YoutubeRan random={video} />
+              </SwiperSlide>
+            ))}
           </Swiper>
         </div>
       </div>
