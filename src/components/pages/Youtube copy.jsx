@@ -15,7 +15,7 @@ const Youtube = () => {
 
   const search = async (query) => {
     await fetch(
-      `https://youtube.googleapis.com/youtube/v3/search?part=snippet&q=${query}&key=REMOVED_EXPOSED_KEY&type=video`
+      `https://youtube.googleapis.com/youtube/v3/search?part=snippet&q=${query}&key=${process.env.REACT_APP_YOUTUBE_API_KEY || ""}&type=video`
     )
       .then((response) => response.json())
       .then((result) => setYoutube(result.items))
@@ -24,7 +24,7 @@ const Youtube = () => {
 
   useEffect(() => {
     fetch(
-      "https://youtube.googleapis.com/youtube/v3/search?part=snippet&q=webstoryboy&key=REMOVED_EXPOSED_KEY&type=video"
+      `https://youtube.googleapis.com/youtube/v3/search?part=snippet&q=webstoryboy&key=${process.env.REACT_APP_YOUTUBE_API_KEY || ""}&type=video`
     )
       .then((response) => response.json())
       .then((result) => setYoutube(result.items))

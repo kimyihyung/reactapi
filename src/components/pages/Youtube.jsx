@@ -16,7 +16,7 @@ const Youtube = () => {
 
   const search = async (query) => {
     await fetch(
-      //   `https://youtube.googleapis.com/youtube/v3/search?part=snippet&q=${query}&key=REMOVED_EXPOSED_KEY&maxResults=30&type=video`
+      //   `https://youtube.googleapis.com/youtube/v3/search?part=snippet&q=${query}&key=${process.env.REACT_APP_YOUTUBE_API_KEY || ""}&maxResults=30&type=video`
       // )
       //   .then((response) => response.json())
       //   .then((result) => setYoutubes(result.items))
@@ -33,7 +33,7 @@ const Youtube = () => {
 
   useEffect(() => {
     // fetch(
-    //   "https://youtube.googleapis.com/youtube/v3/search?part=snippet&q=spotv&key=REMOVED_EXPOSED_KEY&type=video"
+    //   `https://youtube.googleapis.com/youtube/v3/search?part=snippet&q=spotv&key=${process.env.REACT_APP_YOUTUBE_API_KEY || ""}&type=video`
     // )
     //   .then((response) => response.json())
     //   .then((result) => setYoutubes(result.items))
@@ -47,7 +47,7 @@ const Youtube = () => {
       .catch((error) => console.log("error", error));
 
     // fetch(
-    //   "https://youtube.googleapis.com/youtube/v3/search?part=snippet&q=soccer&key=REMOVED_EXPOSED_KEY&type=video"
+    //   `https://youtube.googleapis.com/youtube/v3/search?part=snippet&q=soccer&key=${process.env.REACT_APP_YOUTUBE_API_KEY || ""}&type=video`
     // )
     //   .then((response) => response.json())
     //   .then((result) => setRandom(result.items))

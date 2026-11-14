@@ -16,7 +16,7 @@ const Movie = () => {
 
   const search = async (query) => {
     await fetch(
-      `https://api.themoviedb.org/3/search/movie?api_key=REMOVED_EXPOSED_KEY&language=ko-kr&query=${query}&page=1&include_adult=false`
+      `https://api.themoviedb.org/3/search/movie?api_key=${process.env.REACT_APP_TMDB_API_KEY || ""}&language=ko-kr&query=${query}&page=1&include_adult=false`
     )
       .then((response) => response.json())
       // .then(result => console.log(result.results))
@@ -27,7 +27,7 @@ const Movie = () => {
 
   useEffect(() => {
     fetch(
-      "https://api.themoviedb.org/3/search/movie?api_key=REMOVED_EXPOSED_KEY&language=ko-kr&query=마블&page=1&include_adult=false"
+      `https://api.themoviedb.org/3/search/movie?api_key=${process.env.REACT_APP_TMDB_API_KEY || ""}&language=ko-kr&query=마블&page=1&include_adult=false`
     )
       .then((response) => response.json())
       // .then(result => console.log(result.results))
@@ -37,7 +37,7 @@ const Movie = () => {
 
   useEffect(() => {
     fetch(
-      "https://api.themoviedb.org/3/movie/popular?api_key=REMOVED_EXPOSED_KEY&language=ko-KR"
+      `https://api.themoviedb.org/3/movie/popular?api_key=${process.env.REACT_APP_TMDB_API_KEY || ""}&language=ko-KR`
     )
       .then((response) => response.json())
       // .then(result => console.log(result.results))

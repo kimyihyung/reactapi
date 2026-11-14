@@ -15,7 +15,7 @@ const Movie = () => {
 
   useEffect(() => {
     fetch(
-      "https://api.themoviedb.org/3/movie/popular?api_key=REMOVED_EXPOSED_KEY&language=ko-KR"
+      `https://api.themoviedb.org/3/movie/popular?api_key=${process.env.REACT_APP_TMDB_API_KEY || ""}&language=ko-KR`
     )
       .then((response) => response.json())
       .then((result) => listMovies(result.results))
@@ -24,7 +24,7 @@ const Movie = () => {
 
   const search = (query) => {
     fetch(
-      `https://api.themoviedb.org/3/search/movie?api_key=REMOVED_EXPOSED_KEY&query=${query}`
+      `https://api.themoviedb.org/3/search/movie?api_key=${process.env.REACT_APP_TMDB_API_KEY || ""}&query=${query}`
     )
       .then((response) => response.json())
       .then((result) => setMovies(result.results))
@@ -34,7 +34,7 @@ const Movie = () => {
 
   useEffect(() => {
     fetch(
-      "https://api.themoviedb.org/3/search/movie?api_key=REMOVED_EXPOSED_KEY&query=Marvel"
+      `https://api.themoviedb.org/3/search/movie?api_key=${process.env.REACT_APP_TMDB_API_KEY || ""}&query=Marvel`
     )
       .then((response) => response.json())
       .then((result) => setMovies(result.results))
