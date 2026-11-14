@@ -16,7 +16,7 @@ const Unsplash = () => {
 
   const search = async (query) => {
     await fetch(
-      `https://api.unsplash.com/search/photos?client_id=REMOVED_EXPOSED_KEY&query=${query}&per_page=10`
+      `https://api.unsplash.com/search/photos?client_id=${process.env.REACT_APP_UNSPLASH_ACCESS_KEY || ""}&query=${query}&per_page=10`
     )
       .then((response) => response.json())
       .then((result) => setImages(result.results))
@@ -26,14 +26,14 @@ const Unsplash = () => {
 
   useEffect(() => {
     fetch(
-      "https://api.unsplash.com/photos/random?client_id=REMOVED_EXPOSED_KEY&query=seoul&count=30"
+      `https://api.unsplash.com/photos/random?client_id=${process.env.REACT_APP_UNSPLASH_ACCESS_KEY || ""}&query=seoul&count=30`
     )
       .then((response) => response.json())
       .then((result) => setImages(result))
       .catch((error) => console.log("error", error));
 
     fetch(
-      "https://api.unsplash.com/photos/random?client_id=REMOVED_EXPOSED_KEY&count=10"
+      `https://api.unsplash.com/photos/random?client_id=${process.env.REACT_APP_UNSPLASH_ACCESS_KEY || ""}&count=10`
     )
       .then((response) => response.json())
       .then((result) => setRandom(result))
