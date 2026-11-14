@@ -1,6 +1,3 @@
-body {
-  overflow-x: hidden;
-}
 .cont__unsplash {
   ul {
     column-count: 4;
@@ -46,5 +43,27 @@ body {
 
   a {
     color: var(--white);
+  }
+}
+
+/* ------------------------------------------------------------------
+   모바일 (≤768px): 매스너리 4단 → 2단, 슬라이더 이미지 폭을 화면에 맞춤
+   ------------------------------------------------------------------ */
+@media (max-width: 768px) {
+  .cont__unsplash ul {
+    column-count: 2;
+    column-gap: 12px;
+  }
+  .cont__unsplash ul li {
+    margin-bottom: 12px;
+  }
+  .unsplash__inner h2 {
+    font-size: 28px;
+    margin-bottom: 40px;
+  }
+  .unsplash__inner .swiper img {
+    width: 64vw !important;
+    height: 76vw !important;
+    max-height: 340px;
   }
 }

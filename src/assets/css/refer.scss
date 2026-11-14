@@ -15,31 +15,94 @@
       width: 100%;
       color: var(--white);
       align-items: center;
-      font-family: var(--font-cont);
+      font-family: var(--font-kor2);
 
       span {
         display: inline-block;
         padding: 15px 10px;
+        word-break: break-word;
       }
 
-      .num {
-        flex: 1 1 5%;
+      // 실제 마크업 클래스(id / name / desc / descStar)에 맞춘 비율.
+      // 예전 .num / .star 규칙은 마크업과 이름이 달라 적용되지 않고 있었다.
+      .id {
+        flex: 0 0 6%;
         text-align: center;
         border-right: 1px solid var(--bg-dark-border);
+        opacity: 0.6;
       }
       .name {
-        flex: 1 1 15%;
+        flex: 0 0 18%;
         border-right: 1px solid var(--bg-dark-border);
       }
       .desc {
-        flex: 1 1 65%;
+        flex: 1 1 56%;
         border-right: 1px solid var(--bg-dark-border);
       }
-      .star {
-        flex: 1 1 25%;
+      .descStar {
+        flex: 0 0 20%;
         text-align: center;
-        border-right: 1px solid var(--bg-dark-border);
+        color: var(--white);
+        letter-spacing: 1px;
       }
+    }
+
+    &:last-child {
+      border-bottom: 0;
+    }
+  }
+}
+
+/* ------------------------------------------------------------------
+   모바일 (≤768px): 한 줄 4칸이 눌려 단어가 잘리던 표를
+   [번호 · 이름 · 별점] / [설명] 두 줄로 풀어 읽기 좋게 정리
+   ------------------------------------------------------------------ */
+@media (max-width: 768px) {
+  .refer__inner {
+    padding-bottom: 120px;
+    h2 {
+      font-size: 22px;
+      margin-bottom: 16px;
+    }
+  }
+  .refer__list li a {
+    flex-wrap: wrap;
+    align-items: stretch;
+
+    span {
+      padding: 9px 8px;
+      font-size: 14px;
+      line-height: 1.5;
+    }
+    .id {
+      flex: 0 0 38px;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      font-size: 13px;
+    }
+    .name {
+      flex: 1 1 auto;
+      border-right: 0;
+      font-size: 15px;
+    }
+    .descStar {
+      order: 1; /* 별점을 이름과 같은 줄(오른쪽)로 올린다 */
+      flex: 0 0 74px;
+      display: flex;
+      align-items: center;
+      justify-content: flex-end;
+      font-size: 11px;
+      letter-spacing: 0;
+      white-space: nowrap;
+      overflow: hidden;
+    }
+    .desc {
+      order: 2; /* 설명은 두 번째 줄 전체 */
+      flex: 1 1 100%;
+      border-right: 0;
+      border-top: 1px solid var(--bg-dark-border);
+      color: rgba(255, 255, 255, 0.72);
     }
   }
 }

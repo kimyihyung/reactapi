@@ -58,3 +58,22 @@
     }
   }
 }
+
+/* ------------------------------------------------------------------
+   모바일 (≤768px): 영상 카드 4열 → 2열, 슬라이더 여백 축소
+   ------------------------------------------------------------------ */
+@media (max-width: 768px) {
+  .youtube__inner h2 {
+    font-size: 28px;
+    margin-bottom: 40px;
+  }
+  .youtube__inner ul li {
+    width: 48%;
+  }
+  .youtube__inner ul li span {
+    font-size: 14px;
+  }
+  .youtube__inner .swiper img {
+    margin: 50px auto;
+  }
+}

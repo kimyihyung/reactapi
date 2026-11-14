@@ -78,3 +78,43 @@
     margin-bottom: 50px;
   }
 }
+
+/* ------------------------------------------------------------------
+   모바일 (≤768px): 40/60 가로 2단과 좁은 문단 폭을 세로 1단으로 정리
+   ------------------------------------------------------------------ */
+@media (max-width: 768px) {
+  .top__about {
+    margin-bottom: 90px;
+  }
+  .top__about h2,
+  .top__about p {
+    width: 100%;
+    font-size: 16px;
+    word-break: keep-all;
+  }
+  .top__about img {
+    margin-bottom: 30px;
+  }
+  .middle__about,
+  .bottom__about {
+    display: block;
+    margin-bottom: 90px;
+  }
+  .middle__about .desc,
+  .bottom__about .desc {
+    width: 100%;
+    padding: 0 0 10px;
+  }
+  .middle__about .desc h2,
+  .middle__about .desc p,
+  .bottom__about .desc h2,
+  .bottom__about .desc p {
+    font-size: 16px;
+    word-break: keep-all;
+  }
+  .middle__about img,
+  .bottom__about img {
+    width: 100%;
+    margin-bottom: 30px;
+  }
+}

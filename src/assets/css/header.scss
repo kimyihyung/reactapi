@@ -57,3 +57,48 @@
     font-family: var(--font-sub2);
   }
 }
+
+/* ------------------------------------------------------------------
+   모바일: 브랜드를 첫 줄에 두고, 내비 5개를 둘째 줄 한 줄에 모두 노출.
+   (좁은 화면에서 항목이 제각각 줄바꿈되며 겹치던 문제를 정리)
+   ------------------------------------------------------------------ */
+@media (max-width: 700px) {
+  #header {
+    flex-wrap: wrap;
+    padding: 5px 10px 4px;
+  }
+  #header a {
+    margin: 2px 5px;
+    padding: 6px 2px;
+    font-size: 13px;
+    line-height: 1.2;
+  }
+  #header .header__center {
+    order: 1;
+    flex: 1 1 100%;
+    font-size: 18px;
+    line-height: 1;
+    letter-spacing: 0.5px;
+  }
+  #header .header__center a {
+    margin: 0;
+    padding: 4px 8px 6px;
+  }
+  #header .header__left {
+    order: 2;
+    flex: 1 1 50%;
+    text-align: left;
+  }
+  #header .header__right {
+    order: 3;
+    flex: 1 1 50%;
+    text-align: right;
+  }
+}
+
+@media (max-width: 360px) {
+  #header a {
+    margin: 2px 3px;
+    font-size: 12px;
+  }
+}

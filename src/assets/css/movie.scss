@@ -287,3 +287,61 @@
 //     }
 //   }
 // }
+
+/* ------------------------------------------------------------------
+   모바일 (≤768px): 포스터 4열 → 2열, 커버플로우 슬라이더·검색창 축소
+   ------------------------------------------------------------------ */
+@media (max-width: 768px) {
+  .movie__inner ul li {
+    width: 47.5%;
+  }
+  .movie__inner ul li em {
+    height: auto;
+    min-height: 44px;
+    margin-bottom: 10px;
+    font-size: 14px;
+    line-height: 1.4;
+  }
+  .movie__inner ul li .title {
+    font-size: 14px;
+  }
+  .popular__inner h2 {
+    font-size: 28px;
+    margin-bottom: 40px;
+  }
+  .popular__inner .swiper {
+    padding-top: 30px;
+    padding-bottom: 40px;
+  }
+  .popular__inner .swiper-slide {
+    width: 62vw;
+  }
+  .popular__inner .ranking {
+    font-size: 54px;
+    left: -6px;
+    top: -18px;
+    -webkit-text-stroke: 1px #fff;
+  }
+  .popular__inner .star {
+    width: 52px;
+    height: 26px;
+    line-height: 26px;
+    top: -24px;
+    right: 0;
+    font-size: 13px;
+  }
+  .movie__search {
+    margin-bottom: 50px;
+  }
+  .movie__search input {
+    padding: 11px 18px;
+    font-size: 14px;
+  }
+  .movie__search button {
+    top: 5px;
+    right: 24px; /* 컨테이너 좌우 여백(20px) 안쪽으로 */
+    width: 32px;
+    height: 32px;
+    font-size: 12px;
+  }
+}

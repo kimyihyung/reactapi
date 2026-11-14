@@ -7,7 +7,7 @@
   color: var(--white);
 
   > div {
-    font-size: 9.4vw;
+    font-size: clamp(24px, 9.4vw, 192px);
     line-height: 0.9;
     text-transform: uppercase;
   }
