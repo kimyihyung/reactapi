@@ -14,16 +14,32 @@ import staticFeed from "../../utils/youtube_video.json";
 const FEED_URL =
   "https://raw.githubusercontent.com/kimyihyung/reactapi/main/src/utils/youtube_video.json";
 
-const TAGS = ["전체", "JavaScript", "HTML", "CSS", "PHP", "REACT", "VUE"];
+const TAGS = ["전체", "AI", "테크", "경제·비즈니스", "개발·프론트엔드", "3D·크리에이티브"];
 
-// 태그 버튼이 실제로 걸러내는 키워드입니다.
+// 태그 버튼이 실제로 걸러내는 키워드입니다. (목록의 description에 이 말이 들어 있습니다.)
 const TAG_KEYWORDS = {
-  JavaScript: ["javascript", "자바스크립트"],
-  HTML: ["html"],
-  CSS: ["css"],
-  PHP: ["php"],
-  REACT: ["react", "리액트"],
-  VUE: ["vue", "vue.js", "뷰js"],
+  AI: ["인공지능", "머신러닝", "딥러닝", "신경망", "llm"],
+  테크: ["테크", "하드웨어", "가젯", "스마트폰", "기기", "디바이스"],
+  "경제·비즈니스": ["경제", "비즈니스", "스타트업", "시장", "투자", "플랫폼"],
+  "개발·프론트엔드": [
+    "프론트엔드",
+    "개발",
+    "코드",
+    "웹",
+    "html",
+    "css",
+    "javascript",
+    "리액트",
+  ],
+  "3D·크리에이티브": [
+    "3d",
+    "블렌더",
+    "blender",
+    "vfx",
+    "cg",
+    "렌더링",
+    "크리에이티브",
+  ],
 };
 
 const normalize = (item) => {

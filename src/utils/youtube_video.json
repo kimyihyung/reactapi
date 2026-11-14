@@ -1,1031 +1,1000 @@
 {
   "kind": "youtube#searchListResponse",
-  "etag": "YCfbnGYt4KDBLUWMkKjTGNmnIXY",
-  "nextPageToken": "CB4QAA",
-  "regionCode": "US",
+  "etag": "curated-2026-11-15",
+  "regionCode": "KR",
   "pageInfo": {
-    "totalResults": 1979,
+    "totalResults": 30,
     "resultsPerPage": 30
   },
   "items": [
     {
       "kind": "youtube#searchResult",
-      "etag": "75JD70__dyEmC_k5qvQE0tACQaQ",
       "id": {
         "kind": "youtube#video",
-        "videoId": "EfasNM04Erk"
+        "videoId": "GlYgs6v2YfU"
       },
       "snippet": {
-        "publishedAt": "2019-05-13T05:44:01Z",
-        "channelId": "UCsvQSv7EeCMHyYb9ENKAJZw",
-        "title": "01. 메가박스 사이트 만들기 - 기본 셋팅",
-        "description": "웹 디자인부터 코딩까지 이루어지는 수업입니다. 메가박스 사이트를 포토샵을 이용하여 디자인을 하고 반응형 사이트를 만드는 강의 ...",
+        "publishedAt": "2026-07-16T11:56:04+00:00",
+        "channelId": "UCYO_jab_esuFRV4b17AJtAw",
+        "title": "But what is cross-entropy? | Compression is Intelligence Part 2",
+        "description": "3Blue1Brown이 정보이론으로 풀어내는 크로스 엔트로피. 인공지능이 왜 손실 함수를 기준으로 학습하는지 시각적으로 설명합니다.",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/EfasNM04Erk/default.jpg",
+            "url": "https://i.ytimg.com/vi/GlYgs6v2YfU/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/EfasNM04Erk/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/GlYgs6v2YfU/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/EfasNM04Erk/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/GlYgs6v2YfU/hqdefault.jpg",
             "width": 480,
             "height": 360
           }
         },
-        "channelTitle": "Webstoryboy",
+        "channelTitle": "3Blue1Brown",
         "liveBroadcastContent": "none",
-        "publishTime": "2019-05-13T05:44:01Z"
+        "publishTime": "2026-07-16T11:56:04+00:00"
       }
     },
     {
       "kind": "youtube#searchResult",
-      "etag": "G_8JFpVjVMaZauumsOEqL6xpRog",
       "id": {
         "kind": "youtube#video",
-        "videoId": "nuQmKD21XKQ"
+        "videoId": "bRQEWPA832A"
       },
       "snippet": {
-        "publishedAt": "2022-07-06T04:46:40Z",
-        "channelId": "UCsvQSv7EeCMHyYb9ENKAJZw",
-        "title": "포트폴리오 어떻게 만들어야 할까? - 프론트앤드 개발자 취업 인터뷰 #전현정 #조서은 | 웹 퍼블리셔 | 프론트앤드 개발자",
-        "description": "스터디 프론트앤드 개발자의 취업 인터뷰입니다. 웹 퍼블리셔나 프론트앤드 개발자 취업에 관심이 있는 학생들에게 많은 도움이 ...",
+        "publishedAt": "2026-09-18T17:14:08+00:00",
+        "channelId": "UCYO_jab_esuFRV4b17AJtAw",
+        "title": "The last IMO problem AI could not solve",
+        "description": "국제수학올림피아드의 마지막 문제를 두고 인공지능과 수학자의 접근을 비교합니다. AI 추론 능력의 한계를 짚는 3Blue1Brown 영상.",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/nuQmKD21XKQ/default.jpg",
+            "url": "https://i.ytimg.com/vi/bRQEWPA832A/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/nuQmKD21XKQ/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/bRQEWPA832A/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/nuQmKD21XKQ/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/bRQEWPA832A/hqdefault.jpg",
             "width": 480,
             "height": 360
           }
         },
-        "channelTitle": "Webstoryboy",
+        "channelTitle": "3Blue1Brown",
         "liveBroadcastContent": "none",
-        "publishTime": "2022-07-06T04:46:40Z"
+        "publishTime": "2026-09-18T17:14:08+00:00"
       }
     },
     {
       "kind": "youtube#searchResult",
-      "etag": "KismI2IxhLvHZALO9eTOGj2noYY",
       "id": {
         "kind": "youtube#video",
-        "videoId": "ayF6RPYBBqM"
+        "videoId": "gPNiuyYirfw"
       },
       "snippet": {
-        "publishedAt": "2020-04-18T01:00:00Z",
-        "channelId": "UCsvQSv7EeCMHyYb9ENKAJZw",
-        "title": "포트폴리오 어떻게 만들어야 할까? - 웹 퍼블리셔 인터뷰 &amp; webstoryboy",
-        "description": "포트폴리오 어떻게 만들어야 할까? 스터디에서 포트폴리오 만들기부터 취업하는 방법까지의 인터뷰입니다. ** 포트폴리오 리뷰 자신 ...",
+        "publishedAt": "2026-11-12T13:41:41+00:00",
+        "channelId": "UCbfYPyITQ-7l4upoX8nvctg",
+        "title": "DeepMind’s AI Just Did The Impossible",
+        "description": "Two Minute Papers가 DeepMind의 새 인공지능 연구 성과를 짧고 밀도 있게 정리합니다.",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/ayF6RPYBBqM/default.jpg",
+            "url": "https://i.ytimg.com/vi/gPNiuyYirfw/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/ayF6RPYBBqM/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/gPNiuyYirfw/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/ayF6RPYBBqM/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/gPNiuyYirfw/hqdefault.jpg",
             "width": 480,
             "height": 360
           }
         },
-        "channelTitle": "Webstoryboy",
+        "channelTitle": "Two Minute Papers",
         "liveBroadcastContent": "none",
-        "publishTime": "2020-04-18T01:00:00Z"
+        "publishTime": "2026-11-12T13:41:41+00:00"
       }
     },
     {
       "kind": "youtube#searchResult",
-      "etag": "5j5QUOf0dw4mKEPYFCLlKLkX0yE",
       "id": {
         "kind": "youtube#video",
-        "videoId": "aMdp43ocpWA"
+        "videoId": "vug73goPJaM"
       },
       "snippet": {
-        "publishedAt": "2019-05-13T04:54:30Z",
-        "channelId": "UCsvQSv7EeCMHyYb9ENKAJZw",
-        "title": "00. 메가박스 사이트 만들기 - 이제 시작합니다.^^ 화이팅",
-        "description": "웹 디자인부터 코딩까지 이루어지는 수업입니다. 메가박스 사이트를 포토샵을 이용하여 디자인을 하고 반응형 사이트를 만드는 강의 ...",
+        "publishedAt": "2026-11-10T10:15:57+00:00",
+        "channelId": "UCbfYPyITQ-7l4upoX8nvctg",
+        "title": "Is Software Over?",
+        "description": "인공지능 코딩 도구가 확산된 뒤 소프트웨어 산업이 어디로 가는지 논하는 Two Minute Papers 영상.",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/aMdp43ocpWA/default.jpg",
+            "url": "https://i.ytimg.com/vi/vug73goPJaM/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/aMdp43ocpWA/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/vug73goPJaM/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/aMdp43ocpWA/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/vug73goPJaM/hqdefault.jpg",
             "width": 480,
             "height": 360
           }
         },
-        "channelTitle": "Webstoryboy",
+        "channelTitle": "Two Minute Papers",
         "liveBroadcastContent": "none",
-        "publishTime": "2019-05-13T04:54:30Z"
+        "publishTime": "2026-11-10T10:15:57+00:00"
       }
     },
     {
       "kind": "youtube#searchResult",
-      "etag": "fP_Ktk0UGhmxfLCx30x5aKXvQNQ",
       "id": {
         "kind": "youtube#video",
-        "videoId": "Zs9DQA-jy8s"
+        "videoId": "4gVtiH4M5Vs"
       },
       "snippet": {
-        "publishedAt": "2019-12-10T23:00:06Z",
-        "channelId": "UCsvQSv7EeCMHyYb9ENKAJZw",
-        "title": "포트폴리오 어떻게 만들어야 할까? - 웹 퍼블리셔 인터뷰 &amp; 웹스토리보이",
-        "description": "포트폴리오 인터뷰 영상입니다. 웹 퍼블리셔를 준비하는 과정부터 사이트를 만드는 과정을 인터뷰 영상으로 담았습니다. 현재는 웹 ...",
+        "publishedAt": "2026-11-11T07:00:06+00:00",
+        "channelId": "UCQNE2JmbasNYbjGAcuBiRRg",
+        "title": "AI가 핸드폰을 조작할 수 있게 해주는 오픈소스 MCP 등장",
+        "description": "오픈소스 MCP 프로젝트 소개. 인공지능 에이전트가 화면을 직접 조작하는 방식의 변화를 다룹니다.",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/Zs9DQA-jy8s/default.jpg",
+            "url": "https://i.ytimg.com/vi/4gVtiH4M5Vs/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/Zs9DQA-jy8s/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/4gVtiH4M5Vs/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/Zs9DQA-jy8s/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/4gVtiH4M5Vs/hqdefault.jpg",
             "width": 480,
             "height": 360
           }
         },
-        "channelTitle": "Webstoryboy",
+        "channelTitle": "조코딩 JoCoding",
         "liveBroadcastContent": "none",
-        "publishTime": "2019-12-10T23:00:06Z"
+        "publishTime": "2026-11-11T07:00:06+00:00"
       }
     },
     {
       "kind": "youtube#searchResult",
-      "etag": "JEmcNlqT63-6Mau7bFZzPxtyN2Q",
       "id": {
         "kind": "youtube#video",
-        "videoId": "2anoDop4Ahk"
+        "videoId": "cS1cBP5YtqU"
       },
       "snippet": {
-        "publishedAt": "2019-05-13T07:04:35Z",
-        "channelId": "UCsvQSv7EeCMHyYb9ENKAJZw",
-        "title": "02. 메가박스 사이트 만들기 - 헤더 영역",
-        "description": "웹 디자인부터 코딩까지 이루어지는 수업입니다. 메가박스 사이트를 포토샵을 이용하여 디자인을 하고 반응형 사이트를 만드는 강의 ...",
+        "publishedAt": "2026-10-31T12:15:03+00:00",
+        "channelId": "UCUpJs89fSBXNolQGOYKn0YQ",
+        "title": "비싼 AI가 제일 좋을까? 9개 모델 실전 테스트",
+        "description": "노마드 코더가 인공지능 모델 9종을 같은 과제로 비교 테스트합니다. 가격과 성능의 관계를 실제 결과로 보여줍니다.",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/2anoDop4Ahk/default.jpg",
+            "url": "https://i.ytimg.com/vi/cS1cBP5YtqU/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/2anoDop4Ahk/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/cS1cBP5YtqU/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/2anoDop4Ahk/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/cS1cBP5YtqU/hqdefault.jpg",
             "width": 480,
             "height": 360
           }
         },
-        "channelTitle": "Webstoryboy",
+        "channelTitle": "노마드 코더 Nomad Coders",
         "liveBroadcastContent": "none",
-        "publishTime": "2019-05-13T07:04:35Z"
+        "publishTime": "2026-10-31T12:15:03+00:00"
       }
     },
     {
       "kind": "youtube#searchResult",
-      "etag": "WYzae7qTz_qEw-lJM7sGyDTePzY",
       "id": {
         "kind": "youtube#video",
-        "videoId": "tHy498wdPaA"
+        "videoId": "l3L_lETiSzc"
       },
       "snippet": {
-        "publishedAt": "2018-11-11T11:03:03Z",
-        "channelId": "UCsvQSv7EeCMHyYb9ENKAJZw",
-        "title": "01. 웹 표준 사이트 만들기(2019) - layout01",
-        "description": "웹 표준 사이트 만들기(2019) 버전입니다. 소스를 보고 동영상을 보면서 따라하는 튜토리얼입니다. 질문이나 이상한 점은 댓글로 부탁 ...",
+        "publishedAt": "2026-10-15T17:35:15+00:00",
+        "channelId": "UCsBjURrPoezykLs9EqgamOA",
+        "title": "The runtime wars are over... and Node won",
+        "description": "런타임 경쟁의 승자를 정리하는 Fireship 영상. 서비스 스택 선택에 영향을 주는 테크 변화를 요약합니다.",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/tHy498wdPaA/default.jpg",
+            "url": "https://i.ytimg.com/vi/l3L_lETiSzc/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/tHy498wdPaA/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/l3L_lETiSzc/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/tHy498wdPaA/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/l3L_lETiSzc/hqdefault.jpg",
             "width": 480,
             "height": 360
           }
         },
-        "channelTitle": "Webstoryboy",
+        "channelTitle": "Fireship",
         "liveBroadcastContent": "none",
-        "publishTime": "2018-11-11T11:03:03Z"
+        "publishTime": "2026-10-15T17:35:15+00:00"
       }
     },
     {
       "kind": "youtube#searchResult",
-      "etag": "yWEkBFRwS4zsKIS37iHbid7Nkz4",
       "id": {
         "kind": "youtube#video",
-        "videoId": "hSY_lqWW3ew"
+        "videoId": "k2ruCf_z75I"
       },
       "snippet": {
-        "publishedAt": "2020-01-09T23:46:10Z",
-        "channelId": "UCsvQSv7EeCMHyYb9ENKAJZw",
-        "title": "02. 피그마(figma)와 제플린(Zeplin)을 이용한 모바일 사이트 만들기",
-        "description": "피그마(figna)를 이용한 모바일 웹 만들기 프로젝트입니다. 피그마를 통해 프로토타입을 만들고 제플린과 함께 모바일 웹을 만드는 ...",
+        "publishedAt": "2026-11-03T19:47:10+00:00",
+        "channelId": "UCsBjURrPoezykLs9EqgamOA",
+        "title": "The worst week in cybersecurity history... so far",
+        "description": "연이어 터진 보안 사고를 한 편에 정리합니다. 테크 업계가 주목한 사이버 보안 이슈.",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/hSY_lqWW3ew/default.jpg",
+            "url": "https://i.ytimg.com/vi/k2ruCf_z75I/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/hSY_lqWW3ew/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/k2ruCf_z75I/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/hSY_lqWW3ew/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/k2ruCf_z75I/hqdefault.jpg",
             "width": 480,
             "height": 360
           }
         },
-        "channelTitle": "Webstoryboy",
+        "channelTitle": "Fireship",
         "liveBroadcastContent": "none",
-        "publishTime": "2020-01-09T23:46:10Z"
+        "publishTime": "2026-11-03T19:47:10+00:00"
       }
     },
     {
       "kind": "youtube#searchResult",
-      "etag": "5txkBDg04dVayyg7g2jkk7RQZSo",
       "id": {
         "kind": "youtube#video",
-        "videoId": "meOS_IwS2JY"
+        "videoId": "LbubtuQWwcc"
       },
       "snippet": {
-        "publishedAt": "2019-06-14T00:00:05Z",
-        "channelId": "UCsvQSv7EeCMHyYb9ENKAJZw",
-        "title": "02. 웹디자인 기능사 따라하면 딴다 - 레이아웃1_1 | 웹스토리보이",
-        "description": "웹디자인 기능사 실기 준비를 위한 동영상입니다. 웹 디자인 기능사의 여러가지 유형을 익혀야 하며 기본적인 제이쿼리는 꼭 외워야 ...",
+        "publishedAt": "2026-11-12T07:00:16+00:00",
+        "channelId": "UCQNE2JmbasNYbjGAcuBiRRg",
+        "title": "이젠 실시간으로 통역도 해주는 Google Meet",
+        "description": "구글 미트에 붙은 실시간 통역 기능을 다룹니다. 테크 서비스가 언어 장벽을 다루는 방식.",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/meOS_IwS2JY/default.jpg",
+            "url": "https://i.ytimg.com/vi/LbubtuQWwcc/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/meOS_IwS2JY/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/LbubtuQWwcc/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/meOS_IwS2JY/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/LbubtuQWwcc/hqdefault.jpg",
             "width": 480,
             "height": 360
           }
         },
-        "channelTitle": "Webstoryboy",
+        "channelTitle": "조코딩 JoCoding",
         "liveBroadcastContent": "none",
-        "publishTime": "2019-06-14T00:00:05Z"
+        "publishTime": "2026-11-12T07:00:16+00:00"
       }
     },
     {
       "kind": "youtube#searchResult",
-      "etag": "jnOvF_26lU84PujK-_7aiTwsvjk",
       "id": {
         "kind": "youtube#video",
-        "videoId": "d_iK1EbiRz0"
+        "videoId": "33_JIZWdDb8"
       },
       "snippet": {
-        "publishedAt": "2019-05-15T00:54:36Z",
-        "channelId": "UCsvQSv7EeCMHyYb9ENKAJZw",
-        "title": "04. 메가박스 사이트 만들기 - 헤더 반응형 : 모바일 메뉴",
-        "description": "웹 디자인부터 코딩까지 이루어지는 수업입니다. 메가박스 사이트를 포토샵을 이용하여 디자인을 하고 반응형 사이트를 만드는 강의 ...",
+        "publishedAt": "2026-11-12T11:00:34+00:00",
+        "channelId": "UCQNE2JmbasNYbjGAcuBiRRg",
+        "title": "터미널에 맥OS를 띄워버림",
+        "description": "터미널 환경에서 가상 머신으로 맥OS를 띄운 실험. 테크 기기의 활용 범위를 넓히는 시도.",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/d_iK1EbiRz0/default.jpg",
+            "url": "https://i.ytimg.com/vi/33_JIZWdDb8/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/d_iK1EbiRz0/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/33_JIZWdDb8/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/d_iK1EbiRz0/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/33_JIZWdDb8/hqdefault.jpg",
             "width": 480,
             "height": 360
           }
         },
-        "channelTitle": "Webstoryboy",
+        "channelTitle": "조코딩 JoCoding",
         "liveBroadcastContent": "none",
-        "publishTime": "2019-05-15T00:54:36Z"
+        "publishTime": "2026-11-12T11:00:34+00:00"
       }
     },
     {
       "kind": "youtube#searchResult",
-      "etag": "osBWgXLGNiAsf_6snsGkI-N8Zw4",
       "id": {
         "kind": "youtube#video",
-        "videoId": "uII8rsAEeDw"
+        "videoId": "OLZDZtF-xBU"
       },
       "snippet": {
-        "publishedAt": "2018-11-27T15:03:24Z",
-        "channelId": "UCsvQSv7EeCMHyYb9ENKAJZw",
-        "title": "26. 웹 표준 사이트 만들기(2019) - 로그인",
-        "description": "웹 표준 사이트 만들기(2019) 버전입니다. 이 영상은 사이트를 만들기 위한 기초적인 영상입니다. 웹 표준과 웹 접근성을 준수한 ...",
+        "publishedAt": "2026-11-13T22:00:19+00:00",
+        "channelId": "UCelFN6fJ6OY6v8pbc_SLiXA",
+        "title": "학교 노트북에도 ‘딸깍’ 가능하게 한 구글",
+        "description": "교육용 노트북까지 확장된 구글의 서비스 전략을 짚는 티타임즈TV 인터뷰. 테크 기업의 제품 확장 방식.",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/uII8rsAEeDw/default.jpg",
+            "url": "https://i.ytimg.com/vi/OLZDZtF-xBU/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/uII8rsAEeDw/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/OLZDZtF-xBU/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/uII8rsAEeDw/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/OLZDZtF-xBU/hqdefault.jpg",
             "width": 480,
             "height": 360
           }
         },
-        "channelTitle": "Webstoryboy",
+        "channelTitle": "티타임즈TV",
         "liveBroadcastContent": "none",
-        "publishTime": "2018-11-27T15:03:24Z"
+        "publishTime": "2026-11-13T22:00:19+00:00"
       }
     },
     {
       "kind": "youtube#searchResult",
-      "etag": "5td6l2VUuLyHDhY9nRrMxAXBrm0",
       "id": {
         "kind": "youtube#video",
-        "videoId": "mIW-htccaoo"
+        "videoId": "hdMszZ2ah5Q"
       },
       "snippet": {
-        "publishedAt": "2019-07-22T22:30:02Z",
-        "channelId": "UCsvQSv7EeCMHyYb9ENKAJZw",
-        "title": "CSS Animation - Dot 웹퍼블리셔 | 웹디자이너 | 웹스토리보이",
-        "description": "CSS Animation 튜토리얼입니다. CSS3를 이용한 애니메이션과 사이트에 필요한 모션에 대해서 배우는 튜토리얼입니다.",
+        "publishedAt": "2026-11-11T18:43:56+00:00",
+        "channelId": "UCBJycsmduvYEL83R_U4JriQ",
+        "title": "Macbook PROLED Review: It's Not About That",
+        "description": "Marques Brownlee가 새 맥북 프로 디스플레이를 리뷰합니다. 테크 기기 완성도를 실사용 관점에서 평가.",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/mIW-htccaoo/default.jpg",
+            "url": "https://i.ytimg.com/vi/hdMszZ2ah5Q/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/mIW-htccaoo/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/hdMszZ2ah5Q/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/mIW-htccaoo/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/hdMszZ2ah5Q/hqdefault.jpg",
             "width": 480,
             "height": 360
           }
         },
-        "channelTitle": "Webstoryboy",
+        "channelTitle": "Marques Brownlee",
         "liveBroadcastContent": "none",
-        "publishTime": "2019-07-22T22:30:02Z"
+        "publishTime": "2026-11-11T18:43:56+00:00"
       }
     },
     {
       "kind": "youtube#searchResult",
-      "etag": "CPnz29c_ovt2SfuNaui3PGV-A18",
       "id": {
         "kind": "youtube#video",
-        "videoId": "qnwa6I5WosI"
+        "videoId": "QBSm6BJko4A"
       },
       "snippet": {
-        "publishedAt": "2022-08-18T01:00:15Z",
-        "channelId": "UCsvQSv7EeCMHyYb9ENKAJZw",
-        "title": "[레이아웃01] 사이트 만들기 프로젝트1 - float, flex, grid 레이아웃 유형별 연습하기 | 포트폴리오가 실력이다 | 웹 퍼블리셔 | 프론트앤드 개발자",
-        "description": "채널에 가입하여 혜택을 누려보세요. https://www.youtube.com/channel/UCsvQSv7EeCMHyYb9ENKAJZw/join 이 강의는 유료 강의 ...",
+        "publishedAt": "2026-11-11T11:22:17+00:00",
+        "channelId": "UCsJ6RuBiTVWRX156FVbeaGg",
+        "title": "코스피 5,000 붕괴, AI 서사는 무너졌는가",
+        "description": "지수 급락과 AI 투자 서사를 함께 짚는 슈카월드 영상. 시장 심리와 경제 흐름을 해설합니다.",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/qnwa6I5WosI/default.jpg",
+            "url": "https://i.ytimg.com/vi/QBSm6BJko4A/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/qnwa6I5WosI/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/QBSm6BJko4A/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/qnwa6I5WosI/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/QBSm6BJko4A/hqdefault.jpg",
             "width": 480,
             "height": 360
           }
         },
-        "channelTitle": "Webstoryboy",
+        "channelTitle": "슈카월드",
         "liveBroadcastContent": "none",
-        "publishTime": "2022-08-18T01:00:15Z"
+        "publishTime": "2026-11-11T11:22:17+00:00"
       }
     },
     {
       "kind": "youtube#searchResult",
-      "etag": "tJ0s_WigSO1J1mKOAhj8IYtP5hA",
       "id": {
         "kind": "youtube#video",
-        "videoId": "jePlIexZoc0"
+        "videoId": "dRnL_432Oo4"
       },
       "snippet": {
-        "publishedAt": "2019-01-28T00:23:10Z",
-        "channelId": "UCsvQSv7EeCMHyYb9ENKAJZw",
-        "title": "16. 반응형 사이트 만들기 : 타이틀",
-        "description": "반응형 사이트 만들기(2019) 버전입니다. 소스를 보고 동영상을 보면서 따라하는 튜토리얼입니다. 질문이나 이상한 점은 댓글로 부탁 ...",
+        "publishedAt": "2026-11-13T12:37:36+00:00",
+        "channelId": "UCsJ6RuBiTVWRX156FVbeaGg",
+        "title": "급증하는 미용의사, 개혁에 나선 일본",
+        "description": "일본의 의료·미용 산업 구조 변화를 다룹니다. 인력 수급과 경제 정책을 함께 보는 슈카월드.",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/jePlIexZoc0/default.jpg",
+            "url": "https://i.ytimg.com/vi/dRnL_432Oo4/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/jePlIexZoc0/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/dRnL_432Oo4/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/jePlIexZoc0/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/dRnL_432Oo4/hqdefault.jpg",
             "width": 480,
             "height": 360
           }
         },
-        "channelTitle": "Webstoryboy",
+        "channelTitle": "슈카월드",
         "liveBroadcastContent": "none",
-        "publishTime": "2019-01-28T00:23:10Z"
+        "publishTime": "2026-11-13T12:37:36+00:00"
       }
     },
     {
       "kind": "youtube#searchResult",
-      "etag": "ZxYHq-OY5avQmXMdAxAHR7EXh5A",
       "id": {
         "kind": "youtube#video",
-        "videoId": "1vb2A9cTb1I"
+        "videoId": "v6xGK-8Oo80"
       },
       "snippet": {
-        "publishedAt": "2021-02-28T15:00:02Z",
-        "channelId": "UCsvQSv7EeCMHyYb9ENKAJZw",
-        "title": "포트폴리오 어떻게 만들어야 할까? - 프론트앤드 개발자 취업 #박상현",
-        "description": "프론트앤드 개발자로 취업된 학생의 작품입니다. 웹 퍼블리셔나 프론트앤드 개발자 취업에 관심이 있는 학생들에게 많은 도움이 ...",
+        "publishedAt": "2026-11-12T07:55:34+00:00",
+        "channelId": "UCIUni4ScRp4mqPXsxy62L5w",
+        "title": "국밥 2만 원 팔면 6천 원 떼가는 배달앱....'15% 수수료 상한제' 도입하면 내 배달비가 높아진다? (언더스탠딩 백종훈 기자)",
+        "description": "배달앱 15% 수수료 상한제가 소비자 가격에 미치는 영향을 계산합니다. 플랫폼 경제 구조 해설.",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/1vb2A9cTb1I/default.jpg",
+            "url": "https://i.ytimg.com/vi/v6xGK-8Oo80/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/1vb2A9cTb1I/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/v6xGK-8Oo80/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/1vb2A9cTb1I/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/v6xGK-8Oo80/hqdefault.jpg",
             "width": 480,
             "height": 360
           }
         },
-        "channelTitle": "Webstoryboy",
+        "channelTitle": "언더스탠딩 : 세상의 모든 지식",
         "liveBroadcastContent": "none",
-        "publishTime": "2021-02-28T15:00:02Z"
+        "publishTime": "2026-11-12T07:55:34+00:00"
       }
     },
     {
       "kind": "youtube#searchResult",
-      "etag": "hBBjBMF95IhCDVYgLVKYJRhZ3pw",
       "id": {
         "kind": "youtube#video",
-        "videoId": "52TT7SLexxE"
+        "videoId": "88LFdKb8LW4"
       },
       "snippet": {
-        "publishedAt": "2019-01-06T03:28:59Z",
-        "channelId": "UCsvQSv7EeCMHyYb9ENKAJZw",
-        "title": "01. 반응형 사이트 만들기(2019) - 시멘틱 태그",
-        "description": "반응형 사이트 만들기(2019) 버전입니다. 소스를 보고 동영상을 보면서 따라하는 튜토리얼입니다. 질문이나 이상한 점은 댓글로 부탁 ...",
+        "publishedAt": "2026-11-12T12:25:28+00:00",
+        "channelId": "UCIUni4ScRp4mqPXsxy62L5w",
+        "title": "[양진석의 핫플 1부] 가로수길은 왜 몰락했나? 성수동 팝업의 한계와 30년 살아남는 공간의 비밀 | '당신의 공간은 영원한가' 저자 양진석 건축가",
+        "description": "상권의 흥망과 소비 트렌드를 짚는 인터뷰. 오래 살아남는 공간의 조건을 경제 관점에서 분석합니다.",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/52TT7SLexxE/default.jpg",
+            "url": "https://i.ytimg.com/vi/88LFdKb8LW4/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/52TT7SLexxE/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/88LFdKb8LW4/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/52TT7SLexxE/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/88LFdKb8LW4/hqdefault.jpg",
             "width": 480,
             "height": 360
           }
         },
-        "channelTitle": "Webstoryboy",
+        "channelTitle": "언더스탠딩 : 세상의 모든 지식",
         "liveBroadcastContent": "none",
-        "publishTime": "2019-01-06T03:28:59Z"
+        "publishTime": "2026-11-12T12:25:28+00:00"
       }
     },
     {
       "kind": "youtube#searchResult",
-      "etag": "lbyDZozZc6L89Uq1mWE9vrKb9sw",
       "id": {
         "kind": "youtube#video",
-        "videoId": "yh4MUO05ils"
+        "videoId": "6Omv_KD9l98"
       },
       "snippet": {
-        "publishedAt": "2022-07-20T23:51:10Z",
-        "channelId": "UCsvQSv7EeCMHyYb9ENKAJZw",
-        "title": "[디자인03] 사이트 만들기 프로젝트1 - 이미지 영역01 | 포트폴리오가 실력이다 | 피그마 | 웹디자인너 | 웹 퍼블리",
-        "description": "채널에 가입하여 혜택을 누려보세요. https://www.youtube.com/channel/UCsvQSv7EeCMHyYb9ENKAJZw/join 이 강의는 유료 강의 ...",
+        "publishedAt": "2026-11-10T09:00:14+00:00",
+        "channelId": "UCelFN6fJ6OY6v8pbc_SLiXA",
+        "title": "“AI가 준 선물은 생산성이 아니라 진짜 비즈니스를 시작할 수 있는 것” (송인혁 유니크굿컴퍼니 대표)",
+        "description": "AI 시대에 창업 기회가 어디로 옮겨가는지 묻는 티타임즈TV 인터뷰. 비즈니스 모델 전환 이야기.",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/yh4MUO05ils/default.jpg",
+            "url": "https://i.ytimg.com/vi/6Omv_KD9l98/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/yh4MUO05ils/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/6Omv_KD9l98/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/yh4MUO05ils/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/6Omv_KD9l98/hqdefault.jpg",
             "width": 480,
             "height": 360
           }
         },
-        "channelTitle": "Webstoryboy",
+        "channelTitle": "티타임즈TV",
         "liveBroadcastContent": "none",
-        "publishTime": "2022-07-20T23:51:10Z"
+        "publishTime": "2026-11-10T09:00:14+00:00"
       }
     },
     {
       "kind": "youtube#searchResult",
-      "etag": "9hkOMQpm-WfOpRjuEFkD1mZ7tNk",
       "id": {
         "kind": "youtube#video",
-        "videoId": "fEtk9m2sUNo"
+        "videoId": "K3GOrUDctZ4"
       },
       "snippet": {
-        "publishedAt": "2019-12-23T23:00:09Z",
-        "channelId": "UCsvQSv7EeCMHyYb9ENKAJZw",
-        "title": "CSS Animation - hoverEffect04 | flex | figure | perspective",
-        "description": "CSS Animation 튜토리얼입니다. CSS3를 이용한 애니메이션과 사이트에 필요한 모션에 대해서 배우는 튜토리얼입니다.",
+        "publishedAt": "2026-11-05T09:00:37+00:00",
+        "channelId": "UCelFN6fJ6OY6v8pbc_SLiXA",
+        "title": "4억명 모은 숏드 앱 ‘홍궈’는 어떻게 시청자 지갑을 열었나",
+        "description": "중국 숏드 앱이 4억 사용자를 모은 과정과 수익화 구조를 분석합니다. 플랫폼 비즈니스 사례.",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/fEtk9m2sUNo/default.jpg",
+            "url": "https://i.ytimg.com/vi/K3GOrUDctZ4/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/fEtk9m2sUNo/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/K3GOrUDctZ4/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/fEtk9m2sUNo/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/K3GOrUDctZ4/hqdefault.jpg",
             "width": 480,
             "height": 360
           }
         },
-        "channelTitle": "Webstoryboy",
+        "channelTitle": "티타임즈TV",
         "liveBroadcastContent": "none",
-        "publishTime": "2019-12-23T23:00:09Z"
+        "publishTime": "2026-11-05T09:00:37+00:00"
       }
     },
     {
       "kind": "youtube#searchResult",
-      "etag": "uoHVeoi7WbyFk6BmH0o6jR0Z5r4",
       "id": {
         "kind": "youtube#video",
-        "videoId": "NWHIwQlptgM"
+        "videoId": "8ucoskmA1yg"
       },
       "snippet": {
-        "publishedAt": "2019-12-09T23:34:50Z",
-        "channelId": "UCsvQSv7EeCMHyYb9ENKAJZw",
-        "title": "포트폴리오 어떻게 만들어야 할까? - 웹 퍼블리셔 인터뷰 &amp; 웹스토리보이",
-        "description": "포트폴리오 인터뷰 영상입니다. 웹 퍼블리셔를 준비하는 과정부터 사이트를 만드는 과정을 인터뷰 영상으로 담았습니다. 현재는 웹 ...",
+        "publishedAt": "2026-08-19T11:45:22+00:00",
+        "channelId": "UCUpJs89fSBXNolQGOYKn0YQ",
+        "title": "이게 진짜 HTML이라고?",
+        "description": "HTML의 새로운 기능을 실험하는 노마드 코더 영상. 프론트엔드 웹 표준이 어디까지 확장됐는지 보여줍니다.",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/NWHIwQlptgM/default.jpg",
+            "url": "https://i.ytimg.com/vi/8ucoskmA1yg/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/NWHIwQlptgM/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/8ucoskmA1yg/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/NWHIwQlptgM/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/8ucoskmA1yg/hqdefault.jpg",
             "width": 480,
             "height": 360
           }
         },
-        "channelTitle": "Webstoryboy",
+        "channelTitle": "노마드 코더 Nomad Coders",
         "liveBroadcastContent": "none",
-        "publishTime": "2019-12-09T23:34:50Z"
+        "publishTime": "2026-08-19T11:45:22+00:00"
       }
     },
     {
       "kind": "youtube#searchResult",
-      "etag": "UbEZF-EfpdjhPbshQP-JFfo1hdI",
       "id": {
         "kind": "youtube#video",
-        "videoId": "DCtUt1_6S-A"
+        "videoId": "3JCgiVYlLFo"
       },
       "snippet": {
-        "publishedAt": "2019-03-07T23:00:00Z",
-        "channelId": "UCq7-gOh15ChDcFJ9xN9SYmg",
-        "title": "무료 웹호스팅 및 ftp 사용하기 ( 닷홈 &amp; 파일질라)",
-        "description": "포트폴리오 사이트 만들때 웹호스팅 고민되시죠? 무료 웹호스팅으로 유명한 닷홈을 알아보고 웹서버에 파일을 업로드 할 수 있는 파일 ...",
+        "publishedAt": "2026-10-04T12:15:36+00:00",
+        "channelId": "UCUpJs89fSBXNolQGOYKn0YQ",
+        "title": "쓰레기 코드 ☠️ 없애는 법",
+        "description": "나쁜 코드를 걷어내는 리팩터링 접근을 다룹니다. 유지보수 가능한 개발 습관.",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/DCtUt1_6S-A/default.jpg",
+            "url": "https://i.ytimg.com/vi/3JCgiVYlLFo/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/DCtUt1_6S-A/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/3JCgiVYlLFo/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/DCtUt1_6S-A/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/3JCgiVYlLFo/hqdefault.jpg",
             "width": 480,
             "height": 360
           }
         },
-        "channelTitle": "리베하얀",
+        "channelTitle": "노마드 코더 Nomad Coders",
         "liveBroadcastContent": "none",
-        "publishTime": "2019-03-07T23:00:00Z"
+        "publishTime": "2026-10-04T12:15:36+00:00"
       }
     },
     {
       "kind": "youtube#searchResult",
-      "etag": "Q4bi8QeKSQPO6UQM_wi1ad_Ddms",
       "id": {
         "kind": "youtube#video",
-        "videoId": "tyJ5jpCnE8c"
+        "videoId": "qP2pj1JI8J0"
       },
       "snippet": {
-        "publishedAt": "2019-06-24T00:10:33Z",
-        "channelId": "UCsvQSv7EeCMHyYb9ENKAJZw",
-        "title": "10. 웹디자인 기능사 따라하면 딴다 - 탭 메뉴 유형 | 웹스토리보이",
-        "description": "웹디자인 기능사 실기 준비를 위한 동영상입니다. 웹 디자인 기능사의 여러가지 유형을 익혀야 하며 기본적인 제이쿼리는 꼭 외워야 ...",
+        "publishedAt": "2026-10-25T09:01:51+00:00",
+        "channelId": "UCUpJs89fSBXNolQGOYKn0YQ",
+        "title": "미친 프레임워크 등장 👀",
+        "description": "새로 등장한 프레임워크의 특징과 실사용 감각을 정리합니다. 프론트엔드 생태계의 변화.",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/tyJ5jpCnE8c/default.jpg",
+            "url": "https://i.ytimg.com/vi/qP2pj1JI8J0/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/tyJ5jpCnE8c/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/qP2pj1JI8J0/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/tyJ5jpCnE8c/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/qP2pj1JI8J0/hqdefault.jpg",
             "width": 480,
             "height": 360
           }
         },
-        "channelTitle": "Webstoryboy",
+        "channelTitle": "노마드 코더 Nomad Coders",
         "liveBroadcastContent": "none",
-        "publishTime": "2019-06-24T00:10:33Z"
+        "publishTime": "2026-10-25T09:01:51+00:00"
       }
     },
     {
       "kind": "youtube#searchResult",
-      "etag": "eU4C9PGns7vCIMp6Ff5-9DsdHHY",
       "id": {
         "kind": "youtube#video",
-        "videoId": "2yqgrhkvOfs"
+        "videoId": "KusdGNy4kyk"
       },
       "snippet": {
-        "publishedAt": "2018-01-27T03:10:16Z",
-        "channelId": "UCsvQSv7EeCMHyYb9ENKAJZw",
-        "title": "15. 수업 반응형 사이트 만들기 -  fontawesome",
-        "description": "사이트 소스 http://wess.tistory.com/ 참고 사이트 http://wsss.tistory.com/ http://wiss.tistory.com/ http://coderap.tistory.com/ ...",
+        "publishedAt": "2026-11-03T08:44:24+00:00",
+        "channelId": "UCSLrpBAzr-ROVGHQ5EmxnUg",
+        "title": "UI를 파괴하는 그 문자",
+        "description": "문자 하나로 레이아웃이 무너지는 이유를 파고듭니다. 웹 UI와 문자열 처리의 함정.",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/2yqgrhkvOfs/default.jpg",
+            "url": "https://i.ytimg.com/vi/KusdGNy4kyk/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/2yqgrhkvOfs/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/KusdGNy4kyk/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/2yqgrhkvOfs/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/KusdGNy4kyk/hqdefault.jpg",
             "width": 480,
             "height": 360
           }
         },
-        "channelTitle": "Webstoryboy",
+        "channelTitle": "코딩애플",
         "liveBroadcastContent": "none",
-        "publishTime": "2018-01-27T03:10:16Z"
+        "publishTime": "2026-11-03T08:44:24+00:00"
       }
     },
     {
       "kind": "youtube#searchResult",
-      "etag": "kNTt1VjJlfZhzExKIu6e3UI9T2o",
       "id": {
         "kind": "youtube#video",
-        "videoId": "kEkw5Y45oTs"
+        "videoId": "RPCWoHZSyO8"
       },
       "snippet": {
-        "publishedAt": "2021-10-31T22:12:04Z",
-        "channelId": "UCsvQSv7EeCMHyYb9ENKAJZw",
-        "title": "스크립트 이펙트 : Mouse Effect06 : 이미지 효과2 - jQuery",
-        "description": "안녕하세요! 웹스토리보이입니다. \"고퀄리티의 영상을 올려주셔서 정말 감사합니다.\" 이런 정성스러운 댓글이 이런 영상들을 만들어 ...",
+        "publishedAt": "2026-09-21T07:18:21+00:00",
+        "channelId": "UCSLrpBAzr-ROVGHQ5EmxnUg",
+        "title": "코딩 썩은물 판독기",
+        "description": "코드 품질을 판별하는 기준을 유쾌하게 짚는 코딩애플 영상. 프론트엔드 개발자의 코드 리뷰.",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/kEkw5Y45oTs/default.jpg",
+            "url": "https://i.ytimg.com/vi/RPCWoHZSyO8/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/kEkw5Y45oTs/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/RPCWoHZSyO8/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/kEkw5Y45oTs/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/RPCWoHZSyO8/hqdefault.jpg",
             "width": 480,
             "height": 360
           }
         },
-        "channelTitle": "Webstoryboy",
+        "channelTitle": "코딩애플",
         "liveBroadcastContent": "none",
-        "publishTime": "2021-10-31T22:12:04Z"
+        "publishTime": "2026-09-21T07:18:21+00:00"
       }
     },
     {
       "kind": "youtube#searchResult",
-      "etag": "UrjbmZymQbPEVlhkRZ4OyWPj7ho",
       "id": {
         "kind": "youtube#video",
-        "videoId": "6UOQxucuT90"
+        "videoId": "zv6B6PQOuHE"
       },
       "snippet": {
-        "publishedAt": "2019-03-10T23:44:08Z",
-        "channelId": "UCsvQSv7EeCMHyYb9ENKAJZw",
-        "title": "01. 웹디자이너와 웹퍼블리셔를 위한 기업 사이트 만들기 - 기본 작업",
-        "description": "01. 웹디자이너와 웹퍼블리셔를 위한 기업 사이트 만들기 - 기본 작업 웹 디자인부터 코딩까지 이루어지는 수업입니다. 메가박스 ...",
+        "publishedAt": "2026-10-22T15:09:31+00:00",
+        "channelId": "UCsBjURrPoezykLs9EqgamOA",
+        "title": "The last real programmers are dying out...",
+        "description": "AI 시대에 프로그래머의 역할이 어떻게 바뀌는지 논하는 Fireship 영상. 개발 직업의 미래.",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/6UOQxucuT90/default.jpg",
+            "url": "https://i.ytimg.com/vi/zv6B6PQOuHE/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/6UOQxucuT90/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/zv6B6PQOuHE/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/6UOQxucuT90/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/zv6B6PQOuHE/hqdefault.jpg",
             "width": 480,
             "height": 360
           }
         },
-        "channelTitle": "Webstoryboy",
+        "channelTitle": "Fireship",
         "liveBroadcastContent": "none",
-        "publishTime": "2019-03-10T23:44:08Z"
+        "publishTime": "2026-10-22T15:09:31+00:00"
       }
     },
     {
       "kind": "youtube#searchResult",
-      "etag": "_PZVsvklguXDvz1Ajth6GfWQiWI",
       "id": {
         "kind": "youtube#video",
-        "videoId": "masnzDXG-Ok"
+        "videoId": "kBsVJSETydU"
       },
       "snippet": {
-        "publishedAt": "2018-01-27T03:10:51Z",
-        "channelId": "UCsvQSv7EeCMHyYb9ENKAJZw",
-        "title": "16. 수업 반응형 사이트 만들기 - icon",
-        "description": "사이트 소스 http://wess.tistory.com/ 참고 사이트 http://wsss.tistory.com/ http://wiss.tistory.com/ http://coderap.tistory.com/ ...",
+        "publishedAt": "2026-08-30T17:52:44+00:00",
+        "channelId": "UCOKHwx1VCdgnxwbjyb9Iu1g",
+        "title": "How To Make the Backrooms In Blender",
+        "description": "블렌더로 백룸 공간을 만드는 과정. 3D 공간 구성과 라이팅을 함께 익힙니다.",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/masnzDXG-Ok/default.jpg",
+            "url": "https://i.ytimg.com/vi/kBsVJSETydU/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/masnzDXG-Ok/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/kBsVJSETydU/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/masnzDXG-Ok/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/kBsVJSETydU/hqdefault.jpg",
             "width": 480,
             "height": 360
           }
         },
-        "channelTitle": "Webstoryboy",
+        "channelTitle": "Blender Guru",
         "liveBroadcastContent": "none",
-        "publishTime": "2018-01-27T03:10:51Z"
+        "publishTime": "2026-08-30T17:52:44+00:00"
       }
     },
     {
       "kind": "youtube#searchResult",
-      "etag": "u_6l1E70e1aLrYqw1ZGtP8dk_HM",
       "id": {
         "kind": "youtube#video",
-        "videoId": "QuUQj9E29CI"
+        "videoId": "JQyDVF5duzo"
       },
       "snippet": {
-        "publishedAt": "2019-07-29T09:38:22Z",
-        "channelId": "UCsvQSv7EeCMHyYb9ENKAJZw",
-        "title": "15. 웹디자인 기능사 따라하면 딴다 - 실전사이트 만들기1-1",
-        "description": "웹디자인 기능사 실기 준비를 위한 동영상입니다. 웹 디자인 기능사의 여러가지 유형을 익혀야 하며 기본적인 제이쿼리는 꼭 외워야 ...",
+        "publishedAt": "2026-08-14T23:45:47+00:00",
+        "channelId": "UCOKHwx1VCdgnxwbjyb9Iu1g",
+        "title": "The hardest thing to make in Blender",
+        "description": "블렌더에서 가장 까다로운 작업이 무엇인지 실험합니다. 3D 모델링의 난점을 짚는 영상.",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/QuUQj9E29CI/default.jpg",
+            "url": "https://i.ytimg.com/vi/JQyDVF5duzo/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/QuUQj9E29CI/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/JQyDVF5duzo/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/QuUQj9E29CI/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/JQyDVF5duzo/hqdefault.jpg",
             "width": 480,
             "height": 360
           }
         },
-        "channelTitle": "Webstoryboy",
+        "channelTitle": "Blender Guru",
         "liveBroadcastContent": "none",
-        "publishTime": "2019-07-29T09:38:22Z"
+        "publishTime": "2026-08-14T23:45:47+00:00"
       }
     },
     {
       "kind": "youtube#searchResult",
-      "etag": "f5AH5HfRZ8Afx3Ootf6NiG00Sv0",
       "id": {
         "kind": "youtube#video",
-        "videoId": "bnVjE7hSR04"
+        "videoId": "-ZUAhe-gRns"
       },
       "snippet": {
-        "publishedAt": "2021-10-27T05:12:04Z",
-        "channelId": "UCsvQSv7EeCMHyYb9ENKAJZw",
-        "title": "스크립트 이펙트 : Mouse Effect04 : 조명 효과 - Javascript",
-        "description": "안녕하세요! 웹스토리보이입니다. \"고퀄리티의 영상을 올려주셔서 정말 감사합니다.\" 이런 정성스러운 댓글이 이런 영상들을 만들어 ...",
+        "publishedAt": "2026-08-27T12:37:39+00:00",
+        "channelId": "UC1MmrnDaPnNa55twYBiH4NA",
+        "title": "How to make Looping Polyrhythms in Blender",
+        "description": "블렌더로 반복되는 폴리리듬 애니메이션을 만드는 법. 3D 모션 그래픽 기법.",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/bnVjE7hSR04/default.jpg",
+            "url": "https://i.ytimg.com/vi/-ZUAhe-gRns/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/bnVjE7hSR04/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/-ZUAhe-gRns/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/bnVjE7hSR04/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/-ZUAhe-gRns/hqdefault.jpg",
             "width": 480,
             "height": 360
           }
         },
-        "channelTitle": "Webstoryboy",
+        "channelTitle": "Polyfjord",
         "liveBroadcastContent": "none",
-        "publishTime": "2021-10-27T05:12:04Z"
+        "publishTime": "2026-08-27T12:37:39+00:00"
       }
     },
     {
       "kind": "youtube#searchResult",
-      "etag": "S6Tl_-fzpqhoNn1PNhsSGqOkA8M",
       "id": {
         "kind": "youtube#video",
-        "videoId": "oQ1OWUY2yUw"
+        "videoId": "_6dHc2CoWr0"
       },
       "snippet": {
-        "publishedAt": "2021-10-25T22:46:04Z",
-        "channelId": "UCsvQSv7EeCMHyYb9ENKAJZw",
-        "title": "스크립트 이펙트 : Mouse Effect04 : 조명효과 - jQuery",
-        "description": "안녕하세요! 웹스토리보이입니다. \"고퀄리티의 영상을 올려주셔서 정말 감사합니다.\" 이런 정성스러운 댓글이 이런 영상들을 만들어 ...",
+        "publishedAt": "2026-08-17T11:00:36+00:00",
+        "channelId": "UC1MmrnDaPnNa55twYBiH4NA",
+        "title": "We can speedrun Blender now! (Free add-on)",
+        "description": "블렌더 작업 속도를 끌어올리는 무료 애드온 소개. 3D 워크플로를 단축하는 팁.",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/oQ1OWUY2yUw/default.jpg",
+            "url": "https://i.ytimg.com/vi/_6dHc2CoWr0/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/oQ1OWUY2yUw/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/_6dHc2CoWr0/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/oQ1OWUY2yUw/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/_6dHc2CoWr0/hqdefault.jpg",
             "width": 480,
             "height": 360
           }
         },
-        "channelTitle": "Webstoryboy",
+        "channelTitle": "Polyfjord",
         "liveBroadcastContent": "none",
-        "publishTime": "2021-10-25T22:46:04Z"
+        "publishTime": "2026-08-17T11:00:36+00:00"
       }
     },
     {
       "kind": "youtube#searchResult",
-      "etag": "PtSVMXT6l0CbS5zoyqdzSqPK-8E",
       "id": {
         "kind": "youtube#video",
-        "videoId": "GbpLRH886b8"
+        "videoId": "FBV-leryHu8"
       },
       "snippet": {
-        "publishedAt": "2018-05-01T07:05:16Z",
-        "channelId": "UCsvQSv7EeCMHyYb9ENKAJZw",
-        "title": "13. 가비아 사이트 만들기 - select3",
-        "description": "http://webstoryboy.co.kr/category.",
+        "publishedAt": "2026-11-07T17:00:20+00:00",
+        "channelId": "UCSpFnDQr88xCZ80N-X7t0nQ",
+        "title": "VFX Artists React to Bad & Great CGi 250",
+        "description": "VFX 아티스트들이 CG 장면을 분석하는 시리즈 250회. 크리에이티브 업계의 CG 기술 이야기.",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/GbpLRH886b8/default.jpg",
+            "url": "https://i.ytimg.com/vi/FBV-leryHu8/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/GbpLRH886b8/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/FBV-leryHu8/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/GbpLRH886b8/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/FBV-leryHu8/hqdefault.jpg",
             "width": 480,
             "height": 360
           }
         },
-        "channelTitle": "Webstoryboy",
+        "channelTitle": "Corridor Crew",
         "liveBroadcastContent": "none",
-        "publishTime": "2018-05-01T07:05:16Z"
+        "publishTime": "2026-11-07T17:00:20+00:00"
       }
     },
     {
       "kind": "youtube#searchResult",
-      "etag": "7ZhuQAt8H1INJqY5egXR4QkWrkE",
       "id": {
         "kind": "youtube#video",
-        "videoId": "WKc4eDBYqdk"
+        "videoId": "72zyytPucDU"
       },
       "snippet": {
-        "publishedAt": "2021-10-08T00:07:55Z",
-        "channelId": "UCsvQSv7EeCMHyYb9ENKAJZw",
-        "title": "스크립트 이펙트 : Parallax Effect06 : 이질감 - jQuery",
-        "description": "안녕하세요! 웹스토리보이입니다. \"고퀄리티의 영상을 올려주셔서 정말 감사합니다.\" 이런 정성스러운 댓글이 이런 영상들을 만들어 ...",
+        "publishedAt": "2026-11-05T17:00:30+00:00",
+        "channelId": "UCSpFnDQr88xCZ80N-X7t0nQ",
+        "title": "Transformers 3 Almost BROKE ILM",
+        "description": "트랜스포머 3의 VFX 제작 과정에서 ILM이 겪은 난관. 대규모 CG 제작 비화.",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/WKc4eDBYqdk/default.jpg",
+            "url": "https://i.ytimg.com/vi/72zyytPucDU/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/WKc4eDBYqdk/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/72zyytPucDU/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/WKc4eDBYqdk/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/72zyytPucDU/hqdefault.jpg",
             "width": 480,
             "height": 360
           }
         },
-        "channelTitle": "Webstoryboy",
+        "channelTitle": "Corridor Crew",
         "liveBroadcastContent": "none",
-        "publishTime": "2021-10-08T00:07:55Z"
+        "publishTime": "2026-11-05T17:00:30+00:00"
       }
     }
   ]

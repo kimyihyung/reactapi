@@ -13,12 +13,6 @@ const Reference = () => {
   const [references, setReferences] = useState([]);
 
   useEffect(() => {
-    // fetch("https://webstoryboy.github.io/react2022/src/assets/json/refer.json")
-    //   .then((response) => response.json()) //데이터 어떻게 처리할지 세미콜론 안됨
-    //   //.then((result) => console.log(result.data.htmlRefer)) //result.data.htmlRefer 원하는 값만 불러오기
-    //   .then((result) => setReferences(result.data.htmlRefer)) //setReferences 저장하여 이후 다 연계되며 넘겨짐.
-    //   .catch((error) => console.log("error", error));
-
     fetch(
       "https://raw.githubusercontent.com/kimyihyung/reactapi/main/src/utils/reference.json"
     )
